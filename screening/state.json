@@ -368,22 +368,6 @@
    },
    "delta": null
   },
-  "069500": {
-   "name": "KODEX 200",
-   "status": "관찰",
-   "metrics": {
-    "date": "20260728",
-    "close": 95825,
-    "ma20": 116231.2,
-    "ma60": 123754.7,
-    "ma120": 104308.0,
-    "aligned": false,
-    "since": "20260701",
-    "off_high_pct": -37.1,
-    "val20_eok": 25301.7
-   },
-   "delta": null
-  },
   "083650": {
    "name": "비에이치아이",
    "status": "관찰",
@@ -432,22 +416,6 @@
    },
    "delta": null
   },
-  "102110": {
-   "name": "TIGER 200",
-   "status": "관찰",
-   "metrics": {
-    "date": "20260728",
-    "close": 95935,
-    "ma20": 116296.8,
-    "ma60": 123810.7,
-    "ma120": 104324.4,
-    "aligned": false,
-    "since": "20260701",
-    "off_high_pct": -37.1,
-    "val20_eok": 4799.1
-   },
-   "delta": null
-  },
   "103590": {
    "name": "일진전기",
    "status": "관찰",
@@ -480,38 +448,6 @@
    },
    "delta": null
   },
-  "114800": {
-   "name": "KODEX 인버스",
-   "status": "관찰",
-   "metrics": {
-    "date": "20260728",
-    "close": 1239,
-    "ma20": 1055.9,
-    "ma60": 1040.2,
-    "ma120": 1350.1,
-    "aligned": false,
-    "since": null,
-    "off_high_pct": -65.6,
-    "val20_eok": 10621.8
-   },
-   "delta": null
-  },
-  "122630": {
-   "name": "KODEX 레버리지",
-   "status": "관찰",
-   "metrics": {
-    "date": "20260728",
-    "close": 90430,
-    "ma20": 140318.0,
-    "ma60": 168218.0,
-    "ma120": 127950.0,
-    "aligned": false,
-    "since": "20260626",
-    "off_high_pct": -64.2,
-    "val20_eok": 20159.8
-   },
-   "delta": null
-  },
   "196170": {
    "name": "알테오젠",
    "status": "관찰",
@@ -541,54 +477,6 @@
     "since": "20260122",
     "off_high_pct": -22.6,
     "val20_eok": 885.3
-   },
-   "delta": null
-  },
-  "229200": {
-   "name": "KODEX 코스닥150",
-   "status": "관찰",
-   "metrics": {
-    "date": "20260728",
-    "close": 11710,
-    "ma20": 13920.5,
-    "ma60": 16847.7,
-    "ma120": 18177.3,
-    "aligned": false,
-    "since": "20260527",
-    "off_high_pct": -46.0,
-    "val20_eok": 4965.7
-   },
-   "delta": null
-  },
-  "233740": {
-   "name": "KODEX 코스닥150레버리지",
-   "status": "관찰",
-   "metrics": {
-    "date": "20260728",
-    "close": 5085,
-    "ma20": 7513.5,
-    "ma60": 11749.4,
-    "ma120": 14285.0,
-    "aligned": false,
-    "since": "20260326",
-    "off_high_pct": -76.6,
-    "val20_eok": 6679.4
-   },
-   "delta": null
-  },
-  "252670": {
-   "name": "KODEX 200선물인버스2X",
-   "status": "관찰",
-   "metrics": {
-    "date": "20260728",
-    "close": 122,
-    "ma20": 92.2,
-    "ma60": 95.4,
-    "ma120": 183.5,
-    "aligned": false,
-    "since": null,
-    "off_high_pct": -91.2,
-    "val20_eok": 9383.1
    },
    "delta": null
   },
@@ -688,70 +576,6 @@
    },
    "delta": null
   },
-  "360750": {
-   "name": "TIGER 미국S&P500",
-   "status": "관찰",
-   "metrics": {
-    "date": "20260728",
-    "close": 26900,
-    "ma20": 27946.2,
-    "ma60": 27834.6,
-    "ma120": 26357.3,
-    "aligned": false,
-    "since": "20260708",
-    "off_high_pct": -7.2,
-    "val20_eok": 13494.2
-   },
-   "delta": null
-  },
-  "379800": {
-   "name": "KODEX 미국S&P500",
-   "status": "관찰",
-   "metrics": {
-    "date": "20260728",
-    "close": 24510,
-    "ma20": 25460.0,
-    "ma60": 25366.9,
-    "ma120": 24021.8,
-    "aligned": false,
-    "since": "20260708",
-    "off_high_pct": -7.3,
-    "val20_eok": 9525.4
-   },
-   "delta": null
-  },
-  "395160": {
-   "name": "KODEX AI반도체TOP2플러스",
-   "status": "관찰",
-   "metrics": {
-    "date": "20260728",
-    "close": 33865,
-    "ma20": 44845.2,
-    "ma60": 46480.4,
-    "ma120": 36814.4,
-    "aligned": false,
-    "since": "20260702",
-    "off_high_pct": -47.2,
-    "val20_eok": 3821.5
-   },
-   "delta": null
-  },
-  "396500": {
-   "name": "TIGER 반도체TOP10",
-   "status": "관찰",
-   "metrics": {
-    "date": "20260728",
-    "close": 30340,
-    "ma20": 39788.2,
-    "ma60": 45979.0,
-    "ma120": 39265.8,
-    "aligned": false,
-    "since": "20260629",
-    "off_high_pct": -46.4,
-    "val20_eok": 5221.2
-   },
-   "delta": null
-  },
   "402340": {
    "name": "SK스퀘어",
    "status": "관찰",
@@ -816,27 +640,6 @@
    },
    "delta": null
   },
-  "459580": {
-   "name": "KODEX CD금리액티브(합성)",
-   "status": "주도주",
-   "metrics": {
-    "date": "20260728",
-    "close": 1075762,
-    "ma20": 1074630.4,
-    "ma60": 1072184.5,
-    "ma120": 1068477.7,
-    "aligned": true,
-    "since": null,
-    "off_high_pct": -0.0,
-    "val20_eok": 4767.6
-   },
-   "delta": null,
-   "entry_date": "20260728",
-   "entry_reason": "정배열 형성(미상), 종가 1,075,762 > 20일 1,074,630 > 60일 1,072,184 > 120일 1,068,477",
-   "exit_date": null,
-   "exit_reason": null,
-   "cycle_days": 0
-  },
   "475150": {
    "name": "SK이터닉스",
    "status": "관찰",
@@ -852,33 +655,8 @@
     "val20_eok": 4560.3
    },
    "delta": null
-  },
-  "498400": {
-   "name": "KODEX 200타겟위클리커버드콜",
-   "status": "관찰",
-   "metrics": {
-    "date": "20260728",
-    "close": 18455,
-    "ma20": 22234.4,
-    "ma60": 23685.0,
-    "ma120": 20210.6,
-    "aligned": false,
-    "since": "20260701",
-    "off_high_pct": -35.9,
-    "val20_eok": 2159.7
-   },
-   "delta": null
   }
  },
- "events": [
-  {
-   "date": "20260728",
-   "type": "진입",
-   "code": "459580",
-   "name": "KODEX CD금리액티브(합성)",
-   "when": "2026-07-28",
-   "reason": "정배열 형성(미상), 종가 1,075,762 > 20일 1,074,630 > 60일 1,072,184 > 120일 1,068,477"
-  }
- ],
+ "events": [],
  "last_collect": "20260728"
 }
