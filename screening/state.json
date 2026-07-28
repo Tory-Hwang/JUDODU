@@ -4,773 +4,1304 @@
    "name": "유한양행",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 70700,
-    "ma20": 69960.0,
-    "ma60": 77406.7,
-    "ma120": 89039.2,
+    "ma4": 71225.0,
+    "ma13": 76800.0,
+    "ma26": 88573.1,
+    "ma52": 102150.0,
     "aligned": false,
-    "since": null,
-    "off_high_pct": -48.2,
-    "val20_eok": 191.0
+    "since": "20241111",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
+    "off_high_pct": -45.3,
+    "val13_eok": 1102.0
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +37.3% (직전 2025.4Q +90.2%)"
-   }
+    "prev_yoy": 90.2,
+    "cur_yoy": 37.3,
+    "delta_pp": -52.9,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY +37.3% vs 2025 연간 +90.2% → 델타 -52.9%p [위험]"
+   },
+   "watch_note": null
   },
   "000660": {
    "name": "SK하이닉스",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 1550000,
-    "ma20": 2048200.0,
-    "ma60": 2099450.0,
-    "ma120": 1539891.7,
+    "ma4": 1832750.0,
+    "ma13": 2091692.3,
+    "ma26": 1547038.5,
+    "ma52": 1023663.5,
     "aligned": false,
-    "since": "20260702",
+    "since": "20260720",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": false,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -48.1,
-    "val20_eok": 123056.1
+    "val13_eok": 569757.0
    },
    "delta": {
-    "verdict": "가속",
-    "desc": "2026.1Q YoY +405.5% (직전 2025.4Q +101.2%)"
-   }
+    "prev_yoy": 101.2,
+    "cur_yoy": 405.5,
+    "delta_pp": 304.3,
+    "verdict": "강한 가속",
+    "accel": true,
+    "desc": "2026 1Q YoY +405.5% vs 2025 연간 +101.2% → 델타 +304.3%p [강한 가속]"
+   },
+   "watch_note": null
   },
   "003230": {
    "name": "삼양식품",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 1183000,
-    "ma20": 1127100.0,
-    "ma60": 1190850.0,
-    "ma120": 1189775.0,
+    "ma4": 1135500.0,
+    "ma13": 1188923.1,
+    "ma26": 1195346.2,
+    "ma52": 1281019.2,
     "aligned": false,
-    "since": null,
+    "since": "20251013",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -28.9,
-    "val20_eok": 602.8
+    "val13_eok": 3258.9
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +32.2% (직전 2025.4Q +52.1%)"
-   }
+    "prev_yoy": 52.1,
+    "cur_yoy": 32.2,
+    "delta_pp": -19.9,
+    "verdict": "경계",
+    "accel": false,
+    "desc": "2026 1Q YoY +32.2% vs 2025 연간 +52.1% → 델타 -19.9%p [경계]"
+   },
+   "watch_note": null
   },
   "005380": {
    "name": "현대차",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 364000,
-    "ma20": 442350.0,
-    "ma60": 562258.3,
-    "ma120": 537650.0,
+    "ma4": 411875.0,
+    "ma13": 556230.8,
+    "ma26": 538653.8,
+    "ma52": 409721.2,
     "aligned": false,
-    "since": "20260608",
+    "since": "20260629",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -53.5,
-    "val20_eok": 4020.2
+    "val13_eok": 43285.1
    },
    "delta": {
-    "verdict": "음전환",
-    "desc": "2026.1Q YoY -30.8% (직전 2025.4Q -19.5%)"
-   }
+    "prev_yoy": -19.5,
+    "cur_yoy": -30.8,
+    "delta_pp": -11.3,
+    "verdict": "경계",
+    "accel": false,
+    "desc": "2026 1Q YoY -30.8% vs 2025 연간 -19.5% → 델타 -11.3%p [경계]"
+   },
+   "watch_note": null
   },
   "005930": {
    "name": "삼성전자",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 220000,
-    "ma20": 275375.0,
-    "ma60": 295900.0,
-    "ma120": 243650.0,
+    "ma4": 252375.0,
+    "ma13": 293269.2,
+    "ma26": 244534.6,
+    "ma52": 173036.5,
     "aligned": false,
-    "since": "20260629",
+    "since": "20260720",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": false,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -41.3,
-    "val20_eok": 77943.0
+    "val13_eok": 428862.6
    },
    "delta": {
-    "verdict": "가속",
-    "desc": "2026.1Q YoY +756.1% (직전 2025.4Q +33.2%)"
-   }
+    "prev_yoy": 33.2,
+    "cur_yoy": 756.1,
+    "delta_pp": 722.9,
+    "verdict": "강한 가속",
+    "accel": true,
+    "desc": "2026 1Q YoY +756.1% vs 2025 연간 +33.2% → 델타 +722.9%p [강한 가속]"
+   },
+   "watch_note": null
   },
   "005935": {
    "name": "삼성전자우",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 158200,
-    "ma20": 187820.0,
-    "ma60": 195723.3,
-    "ma120": 164475.0,
+    "ma4": 175400.0,
+    "ma13": 194015.4,
+    "ma26": 165069.2,
+    "ma52": 121569.2,
     "aligned": false,
-    "since": "20260707",
+    "since": "20260720",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": false,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -35.0,
-    "val20_eok": 7511.3
+    "val13_eok": 46180.3
    },
-   "delta": null
+   "delta": null,
+   "watch_note": null
   },
   "007660": {
    "name": "이수페타시스",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 71400,
-    "ma20": 97735.0,
-    "ma60": 117200.0,
-    "ma120": 117334.2,
+    "ma4": 88550.0,
+    "ma13": 111915.4,
+    "ma26": 115376.9,
+    "ma52": 106994.2,
     "aligned": false,
-    "since": "20260605",
+    "since": "20260608",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -56.6,
-    "val20_eok": 1118.2
+    "val13_eok": 6445.1
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +41.0% (직전 2025.4Q +100.9%)"
-   }
+    "prev_yoy": 100.9,
+    "cur_yoy": 41.0,
+    "delta_pp": -59.9,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY +41.0% vs 2025 연간 +100.9% → 델타 -59.9%p [위험]"
+   },
+   "watch_note": null
   },
   "009150": {
    "name": "삼성전기",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 1114000,
-    "ma20": 1535900.0,
-    "ma60": 1546133.3,
-    "ma120": 1004962.5,
+    "ma4": 1325250.0,
+    "ma13": 1570384.6,
+    "ma26": 1032980.8,
+    "ma52": 628100.0,
     "aligned": false,
-    "since": "20260702",
+    "since": "20260720",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": false,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -53.9,
-    "val20_eok": 14898.2
+    "val13_eok": 87892.1
    },
    "delta": {
-    "verdict": "가속",
-    "desc": "2026.1Q YoY +39.9% (직전 2025.4Q +24.3%)"
-   }
+    "prev_yoy": 24.3,
+    "cur_yoy": 39.9,
+    "delta_pp": 15.6,
+    "verdict": "추세 유지",
+    "accel": true,
+    "desc": "2026 1Q YoY +39.9% vs 2025 연간 +24.3% → 델타 +15.6%p [추세 유지]"
+   },
+   "watch_note": null
   },
   "009540": {
    "name": "HD한국조선해양",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 354000,
-    "ma20": 351925.0,
-    "ma60": 393341.7,
-    "ma120": 401379.2,
+    "ma4": 355125.0,
+    "ma13": 387192.3,
+    "ma26": 401692.3,
+    "ma52": 409326.9,
     "aligned": false,
-    "since": "20251215",
+    "since": "20260518",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -28.4,
-    "val20_eok": 762.0
+    "val13_eok": 4479.1
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +57.8% (직전 2025.4Q +172.3%)"
-   }
+    "prev_yoy": 172.3,
+    "cur_yoy": 57.8,
+    "delta_pp": -114.5,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY +57.8% vs 2025 연간 +172.3% → 델타 -114.5%p [위험]"
+   },
+   "watch_note": null
   },
   "010120": {
    "name": "LS ELECTRIC",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 175500,
-    "ma20": 204555.0,
-    "ma60": 238868.3,
-    "ma120": 198021.7,
+    "ma4": 192500.0,
+    "ma13": 231192.3,
+    "ma26": 199319.2,
+    "ma52": 139592.3,
     "aligned": false,
-    "since": "20260701",
+    "since": "20260622",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -47.6,
-    "val20_eok": 2135.4
+    "val13_eok": 13190.0
    },
    "delta": {
-    "verdict": "가속",
-    "desc": "2026.1Q YoY +45.0% (직전 2025.4Q +9.4%)"
-   }
+    "prev_yoy": 9.4,
+    "cur_yoy": 45.0,
+    "delta_pp": 35.6,
+    "verdict": "추세 유지",
+    "accel": true,
+    "desc": "2026 1Q YoY +45.0% vs 2025 연간 +9.4% → 델타 +35.6%p [추세 유지]"
+   },
+   "watch_note": null
   },
   "010140": {
    "name": "삼성중공업",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 20700,
-    "ma20": 22262.5,
-    "ma60": 26420.0,
-    "ma120": 27446.7,
+    "ma4": 22062.5,
+    "ma13": 25819.2,
+    "ma26": 27476.9,
+    "ma52": 25891.5,
     "aligned": false,
-    "since": "20260513",
+    "since": "20260601",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -41.4,
-    "val20_eok": 872.4
+    "val13_eok": 6761.1
    },
    "delta": {
-    "verdict": "가속",
-    "desc": "2026.1Q YoY +121.9% (직전 2025.4Q +71.5%)"
-   }
+    "prev_yoy": 71.5,
+    "cur_yoy": 121.9,
+    "delta_pp": 50.4,
+    "verdict": "추세 유지",
+    "accel": true,
+    "desc": "2026 1Q YoY +121.9% vs 2025 연간 +71.5% → 델타 +50.4%p [추세 유지]"
+   },
+   "watch_note": null
   },
   "012450": {
    "name": "한화에어로스페이스",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 875000,
-    "ma20": 983750.0,
-    "ma60": 1120733.3,
-    "ma120": 1237408.3,
+    "ma4": 941000.0,
+    "ma13": 1088923.1,
+    "ma26": 1221615.4,
+    "ma52": 1106826.9,
     "aligned": false,
-    "since": "20260506",
+    "since": "20260511",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -47.1,
-    "val20_eok": 2208.7
+    "val13_eok": 12036.7
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +20.6% (직전 2025.4Q +78.4%)"
-   }
+    "prev_yoy": 78.4,
+    "cur_yoy": 20.6,
+    "delta_pp": -57.8,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY +20.6% vs 2025 연간 +78.4% → 델타 -57.8%p [위험]"
+   },
+   "watch_note": null
   },
   "034020": {
    "name": "두산에너빌리티",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 64700,
-    "ma20": 75420.0,
-    "ma60": 95761.7,
-    "ma120": 98585.0,
+    "ma4": 71150.0,
+    "ma13": 92007.7,
+    "ma26": 98588.5,
+    "ma52": 86738.5,
     "aligned": false,
-    "since": "20260513",
+    "since": "20260601",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -53.5,
-    "val20_eok": 2014.6
+    "val13_eok": 15108.9
    },
    "delta": {
-    "verdict": "가속",
-    "desc": "2026.1Q YoY +63.9% (직전 2025.4Q -25.0%)"
-   }
+    "prev_yoy": -25.0,
+    "cur_yoy": 63.9,
+    "delta_pp": 88.9,
+    "verdict": "강한 가속",
+    "accel": true,
+    "desc": "2026 1Q YoY +63.9% vs 2025 연간 -25.0% → 델타 +88.9%p [강한 가속]"
+   },
+   "watch_note": null
   },
   "035420": {
    "name": "NAVER",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 210000,
-    "ma20": 197170.0,
-    "ma60": 213471.7,
-    "ma120": 220515.0,
+    "ma4": 199700.0,
+    "ma13": 213730.8,
+    "ma26": 219596.2,
+    "ma52": 232971.2,
     "aligned": false,
-    "since": "20260205",
+    "since": "20260223",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -30.9,
-    "val20_eok": 2260.1
+    "val13_eok": 22312.0
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +7.2% (직전 2025.4Q +11.6%)"
-   }
+    "prev_yoy": 11.6,
+    "cur_yoy": 7.2,
+    "delta_pp": -4.4,
+    "verdict": "경계",
+    "accel": false,
+    "desc": "2026 1Q YoY +7.2% vs 2025 연간 +11.6% → 델타 -4.4%p [경계]"
+   },
+   "watch_note": null
   },
   "036930": {
    "name": "주성엔지니어링",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 128800,
-    "ma20": 180295.0,
-    "ma60": 184065.0,
-    "ma120": 125330.4,
+    "ma4": 162400.0,
+    "ma13": 180384.6,
+    "ma26": 126032.7,
+    "ma52": 78009.6,
     "aligned": false,
-    "since": "20260716",
+    "since": "20260720",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": false,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -54.5,
-    "val20_eok": 4332.6
+    "val13_eok": 23881.7
    },
    "delta": {
-    "verdict": "음전환",
-    "desc": "2026.1Q YoY -120.7% (직전 2025.4Q -67.8%)"
-   }
+    "prev_yoy": -67.8,
+    "cur_yoy": -120.7,
+    "delta_pp": -52.9,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY -120.7% vs 2025 연간 -67.8% → 델타 -52.9%p [위험]"
+   },
+   "watch_note": null
   },
   "042660": {
    "name": "한화오션",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 81000,
-    "ma20": 89185.0,
-    "ma60": 109111.7,
-    "ma120": 119873.3,
+    "ma4": 84225.0,
+    "ma13": 106523.1,
+    "ma26": 119242.3,
+    "ma52": 119284.6,
     "aligned": false,
-    "since": "20260512",
+    "since": "20260316",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -47.7,
-    "val20_eok": 2158.6
+    "val13_eok": 10296.0
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +70.6% (직전 2025.4Q +390.8%)"
-   }
+    "prev_yoy": 390.8,
+    "cur_yoy": 70.6,
+    "delta_pp": -320.2,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY +70.6% vs 2025 연간 +390.8% → 델타 -320.2%p [위험]"
+   },
+   "watch_note": null
   },
   "042700": {
    "name": "한미반도체",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 179500,
-    "ma20": 220735.0,
-    "ma60": 287520.0,
-    "ma120": 277465.0,
+    "ma4": 211000.0,
+    "ma13": 279576.9,
+    "ma26": 279884.6,
+    "ma52": 202101.9,
     "aligned": false,
-    "since": "20260518",
+    "since": "20260608",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -57.9,
-    "val20_eok": 2218.4
+    "val13_eok": 16624.2
    },
    "delta": {
-    "verdict": "음전환",
-    "desc": "2026.1Q YoY -87.9% (직전 2025.4Q -1.6%)"
-   }
+    "prev_yoy": -1.6,
+    "cur_yoy": -87.9,
+    "delta_pp": -86.3,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY -87.9% vs 2025 연간 -1.6% → 델타 -86.3%p [위험]"
+   },
+   "watch_note": null
   },
   "051600": {
    "name": "한전KPS",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 44250,
-    "ma20": 44692.5,
-    "ma60": 50123.3,
-    "ma120": 54605.8,
+    "ma4": 45212.5,
+    "ma13": 50242.3,
+    "ma26": 55213.5,
+    "ma52": 53456.7,
     "aligned": false,
-    "since": "20260506",
+    "since": "20260518",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -35.9,
-    "val20_eok": 48.2
+    "val13_eok": 378.9
    },
    "delta": {
-    "verdict": "가속",
-    "desc": "2026.1Q YoY +374.6% (직전 2025.4Q -33.1%)"
-   }
+    "prev_yoy": -33.1,
+    "cur_yoy": 374.6,
+    "delta_pp": 407.7,
+    "verdict": "강한 가속",
+    "accel": true,
+    "desc": "2026 1Q YoY +374.6% vs 2025 연간 -33.1% → 델타 +407.7%p [강한 가속]"
+   },
+   "watch_note": null
   },
   "052690": {
    "name": "한전기술",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 88800,
-    "ma20": 98165.0,
-    "ma60": 126426.7,
-    "ma120": 144410.8,
+    "ma4": 95700.0,
+    "ma13": 122500.0,
+    "ma26": 145607.7,
+    "ma52": 121973.1,
     "aligned": false,
-    "since": "20260508",
+    "since": "20260518",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -55.2,
-    "val20_eok": 119.9
+    "val13_eok": 1055.4
    },
    "delta": {
-    "verdict": "가속",
-    "desc": "2026.1Q YoY +194.8% (직전 2025.4Q -50.0%)"
-   }
+    "prev_yoy": -50.0,
+    "cur_yoy": 194.8,
+    "delta_pp": 244.8,
+    "verdict": "강한 가속",
+    "accel": true,
+    "desc": "2026 1Q YoY +194.8% vs 2025 연간 -50.0% → 델타 +244.8%p [강한 가속]"
+   },
+   "watch_note": null
   },
   "055550": {
    "name": "신한지주",
-   "status": "관찰",
+   "status": "주도주",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 100900,
-    "ma20": 104745.0,
-    "ma60": 99991.7,
-    "ma120": 97437.5,
-    "aligned": false,
-    "since": "20260728",
+    "ma4": 105600.0,
+    "ma13": 101092.3,
+    "ma26": 98969.2,
+    "ma52": 86642.3,
+    "aligned": true,
+    "since": "20250728",
+    "cycle_weeks": 52,
+    "prep_weeks": 16,
+    "dc_4_13": false,
+    "dc_4_26": false,
+    "vol_dc_13_26": true,
+    "off_peak_pct": -7.6,
     "off_high_pct": -10.9,
-    "val20_eok": 1477.7
+    "val13_eok": 6745.0
    },
-   "delta": null
+   "delta": null,
+   "entry_date": "20250728",
+   "entry_reason": "주봉 4>13>26>52주선 정배열 형성(2025-07-28) — 4주 105,600 > 13주 101,092 > 26주 98,969 > 52주 86,642 · 준비기간 16주",
+   "exit_date": null,
+   "exit_reason": null,
+   "cycle_weeks": 52,
+   "warned_52w": false,
+   "warned_104w": false,
+   "warned_dc413": false,
+   "warned_voldc": false,
+   "warned_delta": false,
+   "warned_mdd": false,
+   "warned_triple": false
   },
   "062040": {
    "name": "산일전기",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 145800,
-    "ma20": 187605.0,
-    "ma60": 233135.0,
-    "ma120": 196430.8,
+    "ma4": 168925.0,
+    "ma13": 225284.6,
+    "ma26": 196234.6,
+    "ma52": 163580.8,
     "aligned": false,
-    "since": "20260618",
+    "since": "20260622",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -57.2,
-    "val20_eok": 548.0
+    "val13_eok": 4152.7
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +47.9% (직전 2025.4Q +63.5%)"
-   }
+    "prev_yoy": 63.5,
+    "cur_yoy": 47.9,
+    "delta_pp": -15.6,
+    "verdict": "경계",
+    "accel": false,
+    "desc": "2026 1Q YoY +47.9% vs 2025 연간 +63.5% → 델타 -15.6%p [경계]"
+   },
+   "watch_note": null
   },
   "064350": {
    "name": "현대로템",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 122600,
-    "ma20": 167480.0,
-    "ma60": 195005.0,
-    "ma120": 202242.5,
+    "ma4": 154725.0,
+    "ma13": 186700.0,
+    "ma26": 200573.1,
+    "ma52": 201403.8,
     "aligned": false,
-    "since": "20260508",
+    "since": "20260526",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -56.5,
-    "val20_eok": 1005.2
+    "val13_eok": 5715.8
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +10.5% (직전 2025.4Q +120.3%)"
-   }
+    "prev_yoy": 120.3,
+    "cur_yoy": 10.5,
+    "delta_pp": -109.8,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY +10.5% vs 2025 연간 +120.3% → 델타 -109.8%p [위험]"
+   },
+   "watch_note": null
   },
   "068270": {
    "name": "셀트리온",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 177400,
-    "ma20": 175340.0,
-    "ma60": 177035.1,
-    "ma120": 189402.1,
+    "ma4": 176500.0,
+    "ma13": 177886.5,
+    "ma26": 190730.2,
+    "ma52": 182975.5,
     "aligned": false,
-    "since": "20260303",
+    "since": "20260323",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -25.8,
-    "val20_eok": 1084.4
+    "val13_eok": 5476.3
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +115.4% (직전 2025.4Q +137.5%)"
-   }
+    "prev_yoy": 137.5,
+    "cur_yoy": 115.4,
+    "delta_pp": -22.1,
+    "verdict": "경계",
+    "accel": false,
+    "desc": "2026 1Q YoY +115.4% vs 2025 연간 +137.5% → 델타 -22.1%p [경계]"
+   },
+   "watch_note": null
   },
   "083650": {
    "name": "비에이치아이",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 39850,
-    "ma20": 47122.5,
-    "ma60": 65195.8,
-    "ma120": 78312.9,
+    "ma4": 43912.5,
+    "ma13": 62826.9,
+    "ma26": 78078.8,
+    "ma52": 65038.5,
     "aligned": false,
-    "since": "20260508",
+    "since": "20260511",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -65.1,
-    "val20_eok": 99.0
+    "val13_eok": 1060.7
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +183.9% (직전 2025.4Q +244.3%)"
-   }
+    "prev_yoy": 244.3,
+    "cur_yoy": 183.9,
+    "delta_pp": -60.4,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY +183.9% vs 2025 연간 +244.3% → 델타 -60.4%p [위험]"
+   },
+   "watch_note": null
   },
   "089030": {
    "name": "테크윙",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 38950,
-    "ma20": 46442.5,
-    "ma60": 52605.0,
-    "ma120": 52774.6,
+    "ma4": 44275.0,
+    "ma13": 51457.7,
+    "ma26": 52582.7,
+    "ma52": 50371.2,
     "aligned": false,
-    "since": "20260702",
+    "since": "20260706",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -47.4,
-    "val20_eok": 742.4
+    "val13_eok": 5018.7
    },
    "delta": {
-    "verdict": "가속",
-    "desc": "2026.1Q YoY +444.0% (직전 2025.4Q -32.4%)"
-   }
+    "prev_yoy": -32.4,
+    "cur_yoy": 444.0,
+    "delta_pp": 476.4,
+    "verdict": "강한 가속",
+    "accel": true,
+    "desc": "2026 1Q YoY +444.0% vs 2025 연간 -32.4% → 델타 +476.4%p [강한 가속]"
+   },
+   "watch_note": null
   },
   "090430": {
    "name": "아모레퍼시픽",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 118800,
-    "ma20": 119575.0,
-    "ma60": 116863.3,
-    "ma120": 128231.7,
+    "ma4": 121075.0,
+    "ma13": 116392.3,
+    "ma26": 128530.8,
+    "ma52": 126180.8,
     "aligned": false,
-    "since": "20260326",
+    "since": "20260323",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": false,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -29.7,
-    "val20_eok": 396.5
+    "val13_eok": 1606.5
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +7.6% (직전 2025.4Q +52.3%)"
-   }
+    "prev_yoy": 52.3,
+    "cur_yoy": 7.6,
+    "delta_pp": -44.7,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY +7.6% vs 2025 연간 +52.3% → 델타 -44.7%p [위험]"
+   },
+   "watch_note": null
   },
   "103590": {
    "name": "일진전기",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 55000,
-    "ma20": 65855.0,
-    "ma60": 89225.0,
-    "ma120": 84005.0,
+    "ma4": 61100.0,
+    "ma13": 84415.4,
+    "ma26": 83457.7,
+    "ma52": 66482.7,
     "aligned": false,
-    "since": "20260518",
+    "since": "20260608",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -62.8,
-    "val20_eok": 217.6
+    "val13_eok": 2052.0
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +49.1% (직전 2025.4Q +89.6%)"
-   }
+    "prev_yoy": 89.6,
+    "cur_yoy": 49.1,
+    "delta_pp": -40.5,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY +49.1% vs 2025 연간 +89.6% → 델타 -40.5%p [위험]"
+   },
+   "watch_note": null
   },
   "105560": {
    "name": "KB금융",
-   "status": "관찰",
+   "status": "주도주",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 165200,
-    "ma20": 172795.0,
-    "ma60": 162320.0,
-    "ma120": 157679.2,
-    "aligned": false,
-    "since": "20260728",
+    "ma4": 175550.0,
+    "ma13": 164661.5,
+    "ma26": 160511.5,
+    "ma52": 140469.2,
+    "aligned": true,
+    "since": "20260706",
+    "cycle_weeks": 3,
+    "prep_weeks": 43,
+    "dc_4_13": false,
+    "dc_4_26": false,
+    "vol_dc_13_26": false,
+    "off_peak_pct": -10.4,
     "off_high_pct": -15.1,
-    "val20_eok": 2757.6
+    "val13_eok": 11207.8
    },
-   "delta": null
+   "delta": null,
+   "entry_date": "20260706",
+   "entry_reason": "주봉 4>13>26>52주선 정배열 형성(2026-07-06) — 4주 175,550 > 13주 164,661 > 26주 160,511 > 52주 140,469 · 준비기간 43주",
+   "exit_date": null,
+   "exit_reason": null,
+   "cycle_weeks": 3,
+   "warned_52w": false,
+   "warned_104w": false,
+   "warned_dc413": false,
+   "warned_voldc": false,
+   "warned_delta": false,
+   "warned_mdd": false,
+   "warned_triple": false
   },
   "196170": {
    "name": "알테오젠",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 296500,
-    "ma20": 310250.0,
-    "ma60": 340216.7,
-    "ma120": 356829.2,
+    "ma4": 299375.0,
+    "ma13": 334500.0,
+    "ma26": 353865.4,
+    "ma52": 410259.6,
     "aligned": false,
-    "since": "20251202",
+    "since": "20251215",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -47.9,
-    "val20_eok": 1407.1
+    "val13_eok": 8218.0
    },
    "delta": {
-    "verdict": "음전환",
-    "desc": "2026.1Q YoY -35.6% (직전 2025.4Q +320.8%)"
-   }
+    "prev_yoy": 320.8,
+    "cur_yoy": -35.6,
+    "delta_pp": -356.4,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY -35.6% vs 2025 연간 +320.8% → 델타 -356.4%p [위험]"
+   },
+   "watch_note": null
   },
   "207940": {
    "name": "삼성바이오로직스",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 1549000,
-    "ma20": 1408700.0,
-    "ma60": 1390766.7,
-    "ma120": 1508016.7,
+    "ma4": 1464500.0,
+    "ma13": 1407692.3,
+    "ma26": 1513807.7,
+    "ma52": 1583805.9,
     "aligned": false,
-    "since": "20260122",
+    "since": "20260209",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": false,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -22.0,
-    "val20_eok": 914.5
+    "val13_eok": 4204.4
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +35.0% (직전 2025.4Q +56.6%)"
-   }
+    "prev_yoy": 56.6,
+    "cur_yoy": 35.0,
+    "delta_pp": -21.6,
+    "verdict": "경계",
+    "accel": false,
+    "desc": "2026 1Q YoY +35.0% vs 2025 연간 +56.6% → 델타 -21.6%p [경계]"
+   },
+   "watch_note": null
   },
   "257720": {
    "name": "실리콘투",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 36500,
-    "ma20": 36112.5,
-    "ma60": 36982.5,
-    "ma120": 39658.3,
+    "ma4": 36350.0,
+    "ma13": 36342.3,
+    "ma26": 39223.1,
+    "ma52": 41853.8,
     "aligned": false,
-    "since": null,
+    "since": "20250811",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": false,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -34.9,
-    "val20_eok": 209.3
+    "val13_eok": 1102.1
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +35.2% (직전 2025.4Q +49.3%)"
-   }
+    "prev_yoy": 49.3,
+    "cur_yoy": 35.2,
+    "delta_pp": -14.1,
+    "verdict": "경계",
+    "accel": false,
+    "desc": "2026 1Q YoY +35.2% vs 2025 연간 +49.3% → 델타 -14.1%p [경계]"
+   },
+   "watch_note": null
   },
   "267260": {
    "name": "HD현대일렉트릭",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 705000,
-    "ma20": 845850.0,
-    "ma60": 1026266.7,
-    "ma120": 1002625.0,
+    "ma4": 790750.0,
+    "ma13": 997153.8,
+    "ma26": 1002038.5,
+    "ma52": 858846.2,
     "aligned": false,
-    "since": "20260515",
+    "since": "20260608",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -50.7,
-    "val20_eok": 1386.6
+    "val13_eok": 8705.8
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +18.4% (직전 2025.4Q +48.8%)"
-   }
+    "prev_yoy": 48.8,
+    "cur_yoy": 18.4,
+    "delta_pp": -30.4,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY +18.4% vs 2025 연간 +48.8% → 델타 -30.4%p [위험]"
+   },
+   "watch_note": null
   },
   "277810": {
    "name": "레인보우로보틱스",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 400500,
-    "ma20": 447425.0,
-    "ma60": 600825.0,
-    "ma120": 635787.5,
+    "ma4": 417375.0,
+    "ma13": 582615.4,
+    "ma26": 627038.5,
+    "ma52": 508711.5,
     "aligned": false,
-    "since": "20260604",
+    "since": "20260615",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -59.1,
-    "val20_eok": 621.2
+    "val13_eok": 5305.8
    },
-   "delta": null
+   "delta": null,
+   "watch_note": null
   },
   "278470": {
    "name": "에이피알",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 333500,
-    "ma20": 376425.0,
-    "ma60": 392491.7,
-    "ma120": 362808.3,
+    "ma4": 363875.0,
+    "ma13": 384153.8,
+    "ma26": 364326.9,
+    "ma52": 301317.3,
     "aligned": false,
-    "since": "20260618",
+    "since": "20260608",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": true,
+    "off_peak_pct": null,
     "off_high_pct": -29.5,
-    "val20_eok": 957.3
+    "val13_eok": 5243.0
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +173.7% (직전 2025.4Q +197.9%)"
-   }
+    "prev_yoy": 197.9,
+    "cur_yoy": 173.7,
+    "delta_pp": -24.2,
+    "verdict": "경계",
+    "accel": false,
+    "desc": "2026 1Q YoY +173.7% vs 2025 연간 +197.9% → 델타 -24.2%p [경계]"
+   },
+   "watch_note": null
   },
   "298040": {
    "name": "효성중공업",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 2324000,
-    "ma20": 2880250.0,
-    "ma60": 3465666.7,
-    "ma120": 3089608.3,
+    "ma4": 2679500.0,
+    "ma13": 3353076.9,
+    "ma26": 3079500.0,
+    "ma52": 2415115.4,
     "aligned": false,
-    "since": "20260624",
+    "since": "20260622",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -51.0,
-    "val20_eok": 1495.4
+    "val13_eok": 9045.5
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +48.8% (직전 2025.4Q +106.1%)"
-   }
+    "prev_yoy": 106.1,
+    "cur_yoy": 48.8,
+    "delta_pp": -57.3,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY +48.8% vs 2025 연간 +106.1% → 델타 -57.3%p [위험]"
+   },
+   "watch_note": null
   },
   "329180": {
    "name": "HD현대중공업",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 451000,
-    "ma20": 511550.0,
-    "ma60": 611200.0,
-    "ma120": 580012.5,
+    "ma4": 481125.0,
+    "ma13": 593884.6,
+    "ma26": 578442.3,
+    "ma52": 557951.9,
     "aligned": false,
-    "since": "20260619",
+    "since": "20260629",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -41.0,
-    "val20_eok": 1560.9
+    "val13_eok": 11821.2
    },
    "delta": {
-    "verdict": "둔화",
-    "desc": "2026.1Q YoY +108.7% (직전 2025.4Q +188.9%)"
-   }
+    "prev_yoy": 188.9,
+    "cur_yoy": 108.7,
+    "delta_pp": -80.2,
+    "verdict": "위험",
+    "accel": false,
+    "desc": "2026 1Q YoY +108.7% vs 2025 연간 +188.9% → 델타 -80.2%p [위험]"
+   },
+   "watch_note": null
   },
   "402340": {
    "name": "SK스퀘어",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 925000,
-    "ma20": 1319050.0,
-    "ma60": 1312683.3,
-    "ma120": 949675.0,
+    "ma4": 1163750.0,
+    "ma13": 1305692.3,
+    "ma26": 954192.3,
+    "ma52": 616636.5,
     "aligned": false,
-    "since": "20260706",
+    "since": "20260727",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": false,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -57.7,
-    "val20_eok": 14361.6
+    "val13_eok": 69158.9
    },
    "delta": {
-    "verdict": "가속",
-    "desc": "2026.1Q YoY +400.5% (직전 2025.4Q +124.4%)"
-   }
+    "prev_yoy": 124.4,
+    "cur_yoy": 400.5,
+    "delta_pp": 276.1,
+    "verdict": "강한 가속",
+    "accel": true,
+    "desc": "2026 1Q YoY +400.5% vs 2025 연간 +124.4% → 델타 +276.1%p [강한 가속]"
+   },
+   "watch_note": null
   },
   "403870": {
    "name": "HPSP",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 32700,
-    "ma20": 42017.5,
-    "ma60": 50443.3,
-    "ma120": 47841.2,
+    "ma4": 38812.5,
+    "ma13": 49353.8,
+    "ma26": 47911.5,
+    "ma52": 39922.1,
     "aligned": false,
-    "since": "20260623",
+    "since": "20260706",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -64.5,
-    "val20_eok": 1693.0
+    "val13_eok": 12982.5
    },
    "delta": {
-    "verdict": "음전환",
-    "desc": "2026.1Q YoY -13.7% (직전 2025.4Q -4.3%)"
-   }
+    "prev_yoy": -4.3,
+    "cur_yoy": -13.7,
+    "delta_pp": -9.4,
+    "verdict": "경계",
+    "accel": false,
+    "desc": "2026 1Q YoY -13.7% vs 2025 연간 -4.3% → 델타 -9.4%p [경계]"
+   },
+   "watch_note": null
   },
   "413630": {
    "name": "씨피시스템",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 4200,
-    "ma20": 2865.8,
-    "ma60": 3034.0,
-    "ma120": 3568.0,
+    "ma4": 3215.0,
+    "ma13": 3068.8,
+    "ma26": 3596.5,
+    "ma52": 3541.7,
     "aligned": false,
-    "since": "20260226",
+    "since": "20260309",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": false,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -32.1,
-    "val20_eok": 307.4
+    "val13_eok": 605.0
    },
    "delta": {
-    "verdict": "가속",
-    "desc": "2026.1Q YoY +12.3% (직전 2025.4Q -35.5%)"
-   }
+    "prev_yoy": -35.5,
+    "cur_yoy": 12.3,
+    "delta_pp": 47.8,
+    "verdict": "추세 유지",
+    "accel": true,
+    "desc": "2026 1Q YoY +12.3% vs 2025 연간 -35.5% → 델타 +47.8%p [추세 유지]"
+   },
+   "watch_note": null
   },
   "454910": {
    "name": "두산로보틱스",
    "status": "관찰",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 60400,
-    "ma20": 72750.0,
-    "ma60": 97075.0,
-    "ma120": 95847.5,
+    "ma4": 66650.0,
+    "ma13": 94630.8,
+    "ma26": 94753.8,
+    "ma52": 85336.5,
     "aligned": false,
-    "since": "20260609",
+    "since": "20260629",
+    "cycle_weeks": null,
+    "prep_weeks": null,
+    "dc_4_13": true,
+    "dc_4_26": true,
+    "vol_dc_13_26": false,
+    "off_peak_pct": null,
     "off_high_pct": -64.5,
-    "val20_eok": 442.2
+    "val13_eok": 8424.0
    },
-   "delta": null
+   "delta": null,
+   "watch_note": null
   },
   "475150": {
    "name": "SK이터닉스",
-   "status": "관찰",
+   "status": "주도주",
    "metrics": {
-    "date": "20260728",
+    "date": "20260727",
     "close": 48700,
-    "ma20": 53357.5,
-    "ma60": 47915.8,
-    "ma120": 44627.2,
-    "aligned": false,
-    "since": "20260728",
+    "ma4": 56112.5,
+    "ma13": 47419.2,
+    "ma26": 46025.0,
+    "ma52": 33681.2,
+    "aligned": true,
+    "since": "20260713",
+    "cycle_weeks": 2,
+    "prep_weeks": 34,
+    "dc_4_13": false,
+    "dc_4_26": false,
+    "vol_dc_13_26": false,
+    "off_peak_pct": -39.8,
     "off_high_pct": -44.5,
-    "val20_eok": 4578.2
+    "val13_eok": 10980.7
    },
    "delta": {
-    "verdict": "가속",
-    "desc": "2026.1Q YoY +362.3% (직전 2025.4Q +40.8%)"
-   }
+    "prev_yoy": 40.8,
+    "cur_yoy": 362.3,
+    "delta_pp": 321.5,
+    "verdict": "강한 가속",
+    "accel": true,
+    "desc": "2026 1Q YoY +362.3% vs 2025 연간 +40.8% → 델타 +321.5%p [강한 가속]"
+   },
+   "entry_date": "20260713",
+   "entry_reason": "주봉 4>13>26>52주선 정배열 형성(2026-07-13) — 4주 56,112 > 13주 47,419 > 26주 46,025 > 52주 33,681 · 준비기간 34주 · 실적 2026 1Q YoY +362.3% vs 2025 연간 +40.8% → 델타 +321.5%p [강한 가속]",
+   "exit_date": null,
+   "exit_reason": null,
+   "cycle_weeks": 2,
+   "warned_52w": false,
+   "warned_104w": false,
+   "warned_dc413": false,
+   "warned_voldc": false,
+   "warned_delta": false,
+   "warned_mdd": false,
+   "warned_triple": false
   }
  },
- "events": [],
- "last_collect": "20260728",
+ "events": [
+  {
+   "date": "20260728",
+   "type": "진입",
+   "code": "055550",
+   "name": "신한지주",
+   "when": "2025-07-28",
+   "reason": "주봉 4>13>26>52주선 정배열 형성(2025-07-28) — 4주 105,600 > 13주 101,092 > 26주 98,969 > 52주 86,642 · 준비기간 16주"
+  },
+  {
+   "date": "20260728",
+   "type": "진입",
+   "code": "105560",
+   "name": "KB금융",
+   "when": "2026-07-06",
+   "reason": "주봉 4>13>26>52주선 정배열 형성(2026-07-06) — 4주 175,550 > 13주 164,661 > 26주 160,511 > 52주 140,469 · 준비기간 43주"
+  },
+  {
+   "date": "20260728",
+   "type": "진입",
+   "code": "475150",
+   "name": "SK이터닉스",
+   "when": "2026-07-13",
+   "reason": "주봉 4>13>26>52주선 정배열 형성(2026-07-13) — 4주 56,112 > 13주 47,419 > 26주 46,025 > 52주 33,681 · 준비기간 34주 · 실적 2026 1Q YoY +362.3% vs 2025 연간 +40.8% → 델타 +321.5%p [강한 가속]"
+  }
+ ],
  "market": {
   "date": "20260728",
   "kospi_close": 6023.66,
   "kospi_ma50": 7841.9,
   "disparity_50d": 76.8
- }
+ },
+ "last_collect": "20260728",
+ "engine": "v2-weekly-4-13-26-52"
 }
