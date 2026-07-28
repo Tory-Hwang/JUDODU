@@ -658,5 +658,11 @@
   }
  },
  "events": [],
- "last_collect": "20260728"
+ "last_collect": "20260728",
+ "market": {
+  "date": "20260728",
+  "kospi_close": 6069.82,
+  "kospi_ma50": 7842.83,
+  "disparity_50d": 77.4
+ }
 }
