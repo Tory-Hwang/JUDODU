@@ -1,0 +1,65 @@
+{
+ "generated": "2026-07-29 14:51",
+ "results": [
+  {
+   "code": "005930",
+   "name": "삼성전자",
+   "weeks": 170,
+   "asof": "20260727",
+   "close": 208000,
+   "dc_4_13": {
+    "date": "20260720",
+    "active": true
+   },
+   "dc_4_26": {
+    "date": "20250519",
+    "active": false
+   },
+   "last_aligned": {
+    "from": "20250811",
+    "to": "20260713",
+    "weeks": 49
+   },
+   "peak": {
+    "date": "20260615",
+    "close": 354000
+   },
+   "mdd_20_break": {
+    "date": "20260713",
+    "close": 255000,
+    "dd_pct": -28.0
+   },
+   "current_dd_pct": -41.2
+  },
+  {
+   "code": "000660",
+   "name": "SK하이닉스",
+   "weeks": 170,
+   "asof": "20260727",
+   "close": 1414000,
+   "dc_4_13": {
+    "date": "20260720",
+    "active": true
+   },
+   "dc_4_26": {
+    "date": "20250414",
+    "active": false
+   },
+   "last_aligned": {
+    "from": "20250526",
+    "to": "20260713",
+    "weeks": 60
+   },
+   "peak": {
+    "date": "20260615",
+    "close": 2764000
+   },
+   "mdd_20_break": {
+    "date": "20260706",
+    "close": 2180000,
+    "dd_pct": -21.1
+   },
+   "current_dd_pct": -48.8
+  }
+ ]
+}
