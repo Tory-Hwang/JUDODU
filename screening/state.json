@@ -24,11 +24,11 @@
    },
    "delta": {
     "prev_yoy": 90.2,
-    "cur_yoy": 37.3,
-    "delta_pp": -52.9,
+    "cur_yoy": 34.1,
+    "delta_pp": -56.1,
     "verdict": "위험",
     "accel": false,
-    "desc": "2026 1Q YoY +37.3% vs 2025 연간 +90.2% → 델타 -52.9%p [위험]"
+    "desc": "2026 반기 YoY +34.1% vs 2025 연간 +90.2% → 델타 -56.1%p [위험]"
    },
    "watch_note": null
   },
@@ -56,11 +56,11 @@
    },
    "delta": {
     "prev_yoy": 101.2,
-    "cur_yoy": 405.5,
-    "delta_pp": 304.3,
+    "cur_yoy": 557.2,
+    "delta_pp": 456.0,
     "verdict": "강한 가속",
     "accel": true,
-    "desc": "2026 1Q YoY +405.5% vs 2025 연간 +101.2% → 델타 +304.3%p [강한 가속]"
+    "desc": "2026 반기 YoY +557.2% vs 2025 연간 +101.2% → 델타 +456.0%p [강한 가속]"
    },
    "watch_note": null
   },
@@ -88,11 +88,11 @@
    },
    "delta": {
     "prev_yoy": 52.1,
-    "cur_yoy": 32.2,
-    "delta_pp": -19.9,
+    "cur_yoy": 46.7,
+    "delta_pp": -5.4,
     "verdict": "경계",
     "accel": false,
-    "desc": "2026 1Q YoY +32.2% vs 2025 연간 +52.1% → 델타 -19.9%p [경계]"
+    "desc": "2026 반기 YoY +46.7% vs 2025 연간 +52.1% → 델타 -5.4%p [경계]"
    },
    "watch_note": null
   },
@@ -120,11 +120,11 @@
    },
    "delta": {
     "prev_yoy": -19.5,
-    "cur_yoy": -30.8,
-    "delta_pp": -11.3,
+    "cur_yoy": -20.8,
+    "delta_pp": -1.3,
     "verdict": "경계",
     "accel": false,
-    "desc": "2026 1Q YoY -30.8% vs 2025 연간 -19.5% → 델타 -11.3%p [경계]"
+    "desc": "2026 반기 YoY -20.8% vs 2025 연간 -19.5% → 델타 -1.3%p [경계]"
    },
    "watch_note": null
   },
@@ -133,12 +133,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20260810",
-    "close": 268000,
+    "close": 274500,
     "series": null,
-    "ma4": 252750.0,
-    "ma13": 293461.5,
-    "ma26": 252292.3,
-    "ma52": 180692.3,
+    "ma4": 254375.0,
+    "ma13": 293961.5,
+    "ma26": 252542.3,
+    "ma52": 180817.3,
     "aligned": false,
     "since": "20260720",
     "cycle_weeks": null,
@@ -146,17 +146,17 @@
     "dc_4_13": true,
     "dc_4_26": false,
     "vol_dc_13_26": false,
-    "off_peak_pct": -24.3,
-    "off_high_pct": -28.4,
-    "val13_eok": 430054.6
+    "off_peak_pct": -22.5,
+    "off_high_pct": -26.7,
+    "val13_eok": 434573.4
    },
    "delta": {
     "prev_yoy": 33.2,
-    "cur_yoy": 756.1,
-    "delta_pp": 722.9,
+    "cur_yoy": 1813.8,
+    "delta_pp": 1780.6,
     "verdict": "강한 가속",
     "accel": true,
-    "desc": "2026 1Q YoY +756.1% vs 2025 연간 +33.2% → 델타 +722.9%p [강한 가속]"
+    "desc": "2026 반기 YoY +1813.8% vs 2025 연간 +33.2% → 델타 +1780.6%p [강한 가속]"
    },
    "watch_note": null
   },
@@ -209,11 +209,11 @@
    },
    "delta": {
     "prev_yoy": 100.9,
-    "cur_yoy": 41.0,
-    "delta_pp": -59.9,
-    "verdict": "위험",
+    "cur_yoy": 83.2,
+    "delta_pp": -17.7,
+    "verdict": "경계",
     "accel": false,
-    "desc": "2026 1Q YoY +41.0% vs 2025 연간 +100.9% → 델타 -59.9%p [위험]"
+    "desc": "2026 반기 YoY +83.2% vs 2025 연간 +100.9% → 델타 -17.7%p [경계]"
    },
    "watch_note": null
   },
@@ -241,11 +241,11 @@
    },
    "delta": {
     "prev_yoy": 24.3,
-    "cur_yoy": 39.9,
-    "delta_pp": 15.6,
-    "verdict": "추세 유지",
+    "cur_yoy": 106.7,
+    "delta_pp": 82.4,
+    "verdict": "강한 가속",
     "accel": true,
-    "desc": "2026 1Q YoY +39.9% vs 2025 연간 +24.3% → 델타 +15.6%p [추세 유지]"
+    "desc": "2026 반기 YoY +106.7% vs 2025 연간 +24.3% → 델타 +82.4%p [강한 가속]"
    },
    "watch_note": null
   },
@@ -273,11 +273,11 @@
    },
    "delta": {
     "prev_yoy": 172.3,
-    "cur_yoy": 57.8,
-    "delta_pp": -114.5,
+    "cur_yoy": 72.5,
+    "delta_pp": -99.8,
     "verdict": "위험",
     "accel": false,
-    "desc": "2026 1Q YoY +57.8% vs 2025 연간 +172.3% → 델타 -114.5%p [위험]"
+    "desc": "2026 반기 YoY +72.5% vs 2025 연간 +172.3% → 델타 -99.8%p [위험]"
    },
    "watch_note": null
   },
@@ -305,11 +305,11 @@
    },
    "delta": {
     "prev_yoy": 9.4,
-    "cur_yoy": 45.0,
-    "delta_pp": 35.6,
+    "cur_yoy": 64.4,
+    "delta_pp": 55.0,
     "verdict": "추세 유지",
     "accel": true,
-    "desc": "2026 1Q YoY +45.0% vs 2025 연간 +9.4% → 델타 +35.6%p [추세 유지]"
+    "desc": "2026 반기 YoY +64.4% vs 2025 연간 +9.4% → 델타 +55.0%p [추세 유지]"
    },
    "watch_note": null
   },
@@ -337,11 +337,11 @@
    },
    "delta": {
     "prev_yoy": 71.5,
-    "cur_yoy": 121.9,
-    "delta_pp": 50.4,
-    "verdict": "추세 유지",
-    "accel": true,
-    "desc": "2026 1Q YoY +121.9% vs 2025 연간 +71.5% → 델타 +50.4%p [추세 유지]"
+    "cur_yoy": 58.7,
+    "delta_pp": -12.8,
+    "verdict": "경계",
+    "accel": false,
+    "desc": "2026 반기 YoY +58.7% vs 2025 연간 +71.5% → 델타 -12.8%p [경계]"
    },
    "watch_note": null
   },
@@ -369,11 +369,11 @@
    },
    "delta": {
     "prev_yoy": 78.4,
-    "cur_yoy": 20.6,
-    "delta_pp": -57.8,
-    "verdict": "위험",
+    "cur_yoy": 58.5,
+    "delta_pp": -19.9,
+    "verdict": "경계",
     "accel": false,
-    "desc": "2026 1Q YoY +20.6% vs 2025 연간 +78.4% → 델타 -57.8%p [위험]"
+    "desc": "2026 반기 YoY +58.5% vs 2025 연간 +78.4% → 델타 -19.9%p [경계]"
    },
    "watch_note": null
   },
@@ -401,11 +401,11 @@
    },
    "delta": {
     "prev_yoy": -25.0,
-    "cur_yoy": 63.9,
-    "delta_pp": 88.9,
-    "verdict": "강한 가속",
+    "cur_yoy": 15.9,
+    "delta_pp": 40.9,
+    "verdict": "추세 유지",
     "accel": true,
-    "desc": "2026 1Q YoY +63.9% vs 2025 연간 -25.0% → 델타 +88.9%p [강한 가속]"
+    "desc": "2026 반기 YoY +15.9% vs 2025 연간 -25.0% → 델타 +40.9%p [추세 유지]"
    },
    "watch_note": null
   },
@@ -465,11 +465,11 @@
    },
    "delta": {
     "prev_yoy": -67.8,
-    "cur_yoy": -120.7,
-    "delta_pp": -52.9,
-    "verdict": "위험",
+    "cur_yoy": -78.4,
+    "delta_pp": -10.6,
+    "verdict": "경계",
     "accel": false,
-    "desc": "2026 1Q YoY -120.7% vs 2025 연간 -67.8% → 델타 -52.9%p [위험]"
+    "desc": "2026 반기 YoY -78.4% vs 2025 연간 -67.8% → 델타 -10.6%p [경계]"
    },
    "watch_note": null
   },
@@ -529,11 +529,11 @@
    },
    "delta": {
     "prev_yoy": -1.6,
-    "cur_yoy": -87.9,
-    "delta_pp": -86.3,
-    "verdict": "위험",
-    "accel": false,
-    "desc": "2026 1Q YoY -87.9% vs 2025 연간 -1.6% → 델타 -86.3%p [위험]"
+    "cur_yoy": 51.0,
+    "delta_pp": 52.6,
+    "verdict": "추세 유지",
+    "accel": true,
+    "desc": "2026 반기 YoY +51.0% vs 2025 연간 -1.6% → 델타 +52.6%p [추세 유지]"
    },
    "watch_note": null
   },
@@ -593,11 +593,11 @@
    },
    "delta": {
     "prev_yoy": -50.0,
-    "cur_yoy": 194.8,
-    "delta_pp": 244.8,
+    "cur_yoy": 999.0,
+    "delta_pp": 1049.0,
     "verdict": "강한 가속",
     "accel": true,
-    "desc": "2026 1Q YoY +194.8% vs 2025 연간 -50.0% → 델타 +244.8%p [강한 가속]"
+    "desc": "2026 반기 YoY +999.0% vs 2025 연간 -50.0% → 델타 +1049.0%p [강한 가속]"
    },
    "watch_note": null
   },
@@ -1015,11 +1015,11 @@
    },
    "delta": {
     "prev_yoy": 120.3,
-    "cur_yoy": 10.5,
-    "delta_pp": -109.8,
+    "cur_yoy": -9.8,
+    "delta_pp": -130.1,
     "verdict": "위험",
     "accel": false,
-    "desc": "2026 1Q YoY +10.5% vs 2025 연간 +120.3% → 델타 -109.8%p [위험]"
+    "desc": "2026 반기 YoY -9.8% vs 2025 연간 +120.3% → 델타 -130.1%p [위험]"
    },
    "watch_note": null
   },
@@ -1143,11 +1143,11 @@
    },
    "delta": {
     "prev_yoy": 52.3,
-    "cur_yoy": 7.6,
-    "delta_pp": -44.7,
-    "verdict": "위험",
-    "accel": false,
-    "desc": "2026 1Q YoY +7.6% vs 2025 연간 +52.3% → 델타 -44.7%p [위험]"
+    "cur_yoy": 59.3,
+    "delta_pp": 7.0,
+    "verdict": "추세 유지",
+    "accel": true,
+    "desc": "2026 반기 YoY +59.3% vs 2025 연간 +52.3% → 델타 +7.0%p [추세 유지]"
    },
    "watch_note": null
   },
@@ -1565,11 +1565,11 @@
    },
    "delta": {
     "prev_yoy": 320.8,
-    "cur_yoy": -35.6,
-    "delta_pp": -356.4,
-    "verdict": "위험",
-    "accel": false,
-    "desc": "2026 1Q YoY -35.6% vs 2025 연간 +320.8% → 델타 -356.4%p [위험]"
+    "cur_yoy": 999.0,
+    "delta_pp": 678.2,
+    "verdict": "강한 가속",
+    "accel": true,
+    "desc": "2026 반기 YoY +999.0% vs 2025 연간 +320.8% → 델타 +678.2%p [강한 가속]"
    },
    "watch_note": null
   },
@@ -1660,11 +1660,11 @@
    },
    "delta": {
     "prev_yoy": 48.8,
-    "cur_yoy": 18.4,
-    "delta_pp": -30.4,
-    "verdict": "위험",
+    "cur_yoy": 37.2,
+    "delta_pp": -11.6,
+    "verdict": "경계",
     "accel": false,
-    "desc": "2026 1Q YoY +18.4% vs 2025 연간 +48.8% → 델타 -30.4%p [위험]"
+    "desc": "2026 반기 YoY +37.2% vs 2025 연간 +48.8% → 델타 -11.6%p [경계]"
    },
    "watch_note": null
   },
@@ -1717,11 +1717,11 @@
    },
    "delta": {
     "prev_yoy": 197.9,
-    "cur_yoy": 173.7,
-    "delta_pp": -24.2,
-    "verdict": "경계",
+    "cur_yoy": 134.5,
+    "delta_pp": -63.4,
+    "verdict": "위험",
     "accel": false,
-    "desc": "2026 1Q YoY +173.7% vs 2025 연간 +197.9% → 델타 -24.2%p [경계]"
+    "desc": "2026 반기 YoY +134.5% vs 2025 연간 +197.9% → 델타 -63.4%p [위험]"
    },
    "watch_note": null
   },
@@ -1781,11 +1781,11 @@
    },
    "delta": {
     "prev_yoy": 188.9,
-    "cur_yoy": 108.7,
-    "delta_pp": -80.2,
+    "cur_yoy": 120.6,
+    "delta_pp": -68.3,
     "verdict": "위험",
     "accel": false,
-    "desc": "2026 1Q YoY +108.7% vs 2025 연간 +188.9% → 델타 -80.2%p [위험]"
+    "desc": "2026 반기 YoY +120.6% vs 2025 연간 +188.9% → 델타 -68.3%p [위험]"
    },
    "watch_note": null
   },
@@ -1813,11 +1813,11 @@
    },
    "delta": {
     "prev_yoy": 124.4,
-    "cur_yoy": 400.5,
-    "delta_pp": 276.1,
+    "cur_yoy": 1273.8,
+    "delta_pp": 1149.4,
     "verdict": "강한 가속",
     "accel": true,
-    "desc": "2026 1Q YoY +400.5% vs 2025 연간 +124.4% → 델타 +276.1%p [강한 가속]"
+    "desc": "2026 반기 YoY +1273.8% vs 2025 연간 +124.4% → 델타 +1149.4%p [강한 가속]"
    },
    "watch_note": null
   },
@@ -1845,11 +1845,11 @@
    },
    "delta": {
     "prev_yoy": -4.3,
-    "cur_yoy": -13.7,
-    "delta_pp": -9.4,
-    "verdict": "경계",
-    "accel": false,
-    "desc": "2026 1Q YoY -13.7% vs 2025 연간 -4.3% → 델타 -9.4%p [경계]"
+    "cur_yoy": -1.1,
+    "delta_pp": 3.2,
+    "verdict": "추세 유지",
+    "accel": true,
+    "desc": "2026 반기 YoY -1.1% vs 2025 연간 -4.3% → 델타 +3.2%p [추세 유지]"
    },
    "watch_note": null
   },
@@ -3648,11 +3648,11 @@
    },
    "delta": {
     "prev_yoy": -25.9,
-    "cur_yoy": -112.4,
-    "delta_pp": -86.5,
-    "verdict": "위험",
+    "cur_yoy": -28.2,
+    "delta_pp": -2.3,
+    "verdict": "경계",
     "accel": false,
-    "desc": "2026 1Q YoY -112.4% vs 2025 연간 -25.9% → 델타 -86.5%p [위험]"
+    "desc": "2026 반기 YoY -28.2% vs 2025 연간 -25.9% → 델타 -2.3%p [경계]"
    },
    "watch_note": null
   },
@@ -4351,11 +4351,11 @@
    },
    "delta": {
     "prev_yoy": -27.5,
-    "cur_yoy": 32.9,
-    "delta_pp": 60.4,
+    "cur_yoy": 147.0,
+    "delta_pp": 174.5,
     "verdict": "강한 가속",
     "accel": true,
-    "desc": "2026 1Q YoY +32.9% vs 2025 연간 -27.5% → 델타 +60.4%p [강한 가속]"
+    "desc": "2026 반기 YoY +147.0% vs 2025 연간 -27.5% → 델타 +174.5%p [강한 가속]"
    },
    "watch_note": null
   },
@@ -4415,11 +4415,11 @@
    },
    "delta": {
     "prev_yoy": -574.1,
-    "cur_yoy": -555.2,
-    "delta_pp": 18.9,
-    "verdict": "추세 유지",
+    "cur_yoy": 999.0,
+    "delta_pp": 1573.1,
+    "verdict": "강한 가속",
     "accel": true,
-    "desc": "2025 3Q누적 YoY -555.2% vs 2025 연간 -574.1% → 델타 +18.9%p [추세 유지]"
+    "desc": "2026 반기 YoY +999.0% vs 2025 연간 -574.1% → 델타 +1573.1%p [강한 가속]"
    },
    "watch_note": null
   },
@@ -4864,11 +4864,11 @@
    },
    "delta": {
     "prev_yoy": 23.6,
-    "cur_yoy": 31.6,
-    "delta_pp": 8.0,
+    "cur_yoy": 50.2,
+    "delta_pp": 26.6,
     "verdict": "추세 유지",
     "accel": true,
-    "desc": "2026 1Q YoY +31.6% vs 2025 연간 +23.6% → 델타 +8.0%p [추세 유지]"
+    "desc": "2026 반기 YoY +50.2% vs 2025 연간 +23.6% → 델타 +26.6%p [추세 유지]"
    },
    "entry_date": "20260629",
    "entry_reason": "주봉 4>13>26>52주선 정배열 형성(2026-06-29) — 4주 108,650 > 13주 99,253 > 26주 90,400 > 52주 80,644 · 준비기간 26주 · 실적 2026 1Q YoY +31.6% vs 2025 연간 +23.6% → 델타 +8.0%p [추세 유지]",
@@ -4981,6 +4981,6 @@
   "kospi_ma50": 7408.25,
   "disparity_50d": 94.2
  },
- "last_collect": "20260814",
+ "last_collect": "20260817",
  "engine": "v2-weekly-4-13-26-52"
 }
