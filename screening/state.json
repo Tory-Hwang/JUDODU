@@ -5,12 +5,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 82300,
+    "close": 83000,
     "series": null,
-    "ma4": 80850.0,
-    "ma13": 78584.6,
-    "ma26": 77246.2,
-    "ma52": 89853.8,
+    "ma4": 81025.0,
+    "ma13": 78638.5,
+    "ma26": 77273.1,
+    "ma52": 89867.3,
     "aligned": false,
     "since": "20241111",
     "cycle_weeks": null,
@@ -18,9 +18,9 @@
     "dc_4_13": false,
     "dc_4_26": false,
     "vol_dc_13_26": true,
-    "off_peak_pct": -44.2,
-    "off_high_pct": -32.7,
-    "val13_eok": 920.1
+    "off_peak_pct": -43.7,
+    "off_high_pct": -32.1,
+    "val13_eok": 932.1
    },
    "delta": {
     "prev_yoy": 90.2,
@@ -37,12 +37,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 1055000,
+    "close": 1111000,
     "series": null,
-    "ma4": 1129000.0,
-    "ma13": 1475615.4,
-    "ma26": 1739000.0,
-    "ma52": 1387269.2,
+    "ma4": 1143000.0,
+    "ma13": 1479923.1,
+    "ma26": 1741153.8,
+    "ma52": 1388346.2,
     "aligned": false,
     "since": "20260720",
     "cycle_weeks": null,
@@ -50,9 +50,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -61.8,
-    "off_high_pct": -64.7,
-    "val13_eok": 239949.0
+    "off_peak_pct": -59.8,
+    "off_high_pct": -62.8,
+    "val13_eok": 242470.6
    },
    "delta": {
     "prev_yoy": 101.2,
@@ -69,22 +69,22 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 1316000,
+    "close": 1302000,
     "series": null,
-    "ma4": 1244750.0,
-    "ma13": 1243384.6,
-    "ma26": 1221923.1,
-    "ma52": 1228153.8,
+    "ma4": 1241250.0,
+    "ma13": 1242307.7,
+    "ma26": 1221384.6,
+    "ma52": 1227884.6,
     "aligned": false,
     "since": "20260928",
     "cycle_weeks": null,
     "prep_weeks": null,
-    "dc_4_13": false,
+    "dc_4_13": true,
     "dc_4_26": false,
     "vol_dc_13_26": true,
     "off_peak_pct": 0.0,
-    "off_high_pct": -15.5,
-    "val13_eok": 2620.5
+    "off_high_pct": -16.4,
+    "val13_eok": 2653.9
    },
    "delta": {
     "prev_yoy": 52.1,
@@ -134,12 +134,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 171500,
+    "close": 179500,
     "series": null,
-    "ma4": 187325.0,
-    "ma13": 231138.5,
-    "ma26": 259819.2,
-    "ma52": 223438.5,
+    "ma4": 189325.0,
+    "ma13": 231753.8,
+    "ma26": 260126.9,
+    "ma52": 223592.3,
     "aligned": false,
     "since": "20260720",
     "cycle_weeks": null,
@@ -147,9 +147,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -51.6,
-    "off_high_pct": -54.2,
-    "val13_eok": 190187.9
+    "off_peak_pct": -49.3,
+    "off_high_pct": -52.1,
+    "val13_eok": 192145.0
    },
    "delta": {
     "prev_yoy": 33.2,
@@ -166,12 +166,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 137000,
+    "close": 145500,
     "series": null,
-    "ma4": 150525.0,
-    "ma13": 177484.6,
-    "ma26": 187296.2,
-    "ma52": 158909.6,
+    "ma4": 152650.0,
+    "ma13": 178138.5,
+    "ma26": 187623.1,
+    "ma52": 159073.1,
     "aligned": false,
     "since": "20261012",
     "cycle_weeks": null,
@@ -179,9 +179,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -37.7,
-    "off_high_pct": -43.7,
-    "val13_eok": 31978.3
+    "off_peak_pct": -33.9,
+    "off_high_pct": -40.2,
+    "val13_eok": 32353.0
    },
    "delta": null,
    "watch_note": null,
@@ -204,12 +204,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 64900,
+    "close": 68700,
     "series": null,
-    "ma4": 71275.0,
-    "ma13": 95846.2,
-    "ma26": 98830.8,
-    "ma52": 110378.8,
+    "ma4": 72225.0,
+    "ma13": 96138.5,
+    "ma26": 98976.9,
+    "ma52": 110451.9,
     "aligned": false,
     "since": "20260608",
     "cycle_weeks": null,
@@ -217,9 +217,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -49.8,
-    "off_high_pct": -60.5,
-    "val13_eok": 3746.8
+    "off_peak_pct": -46.8,
+    "off_high_pct": -58.2,
+    "val13_eok": 3788.8
    },
    "delta": {
     "prev_yoy": 100.9,
@@ -236,12 +236,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 785000,
+    "close": 823000,
     "series": null,
-    "ma4": 821000.0,
-    "ma13": 1201000.0,
-    "ma26": 1393769.2,
-    "ma52": 971057.7,
+    "ma4": 830500.0,
+    "ma13": 1203923.1,
+    "ma26": 1395230.8,
+    "ma52": 971788.5,
     "aligned": false,
     "since": "20261006",
     "cycle_weeks": null,
@@ -249,9 +249,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -50.3,
-    "off_high_pct": -67.5,
-    "val13_eok": 40393.1
+    "off_peak_pct": -47.9,
+    "off_high_pct": -65.9,
+    "val13_eok": 40956.2
    },
    "delta": {
     "prev_yoy": 24.3,
@@ -281,12 +281,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 222500,
+    "close": 231000,
     "series": null,
-    "ma4": 230625.0,
-    "ma13": 282192.3,
-    "ma26": 327230.8,
-    "ma52": 374317.3,
+    "ma4": 232750.0,
+    "ma13": 282846.2,
+    "ma26": 327557.7,
+    "ma52": 374480.8,
     "aligned": false,
     "since": "20260518",
     "cycle_weeks": null,
@@ -294,9 +294,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -47.4,
-    "off_high_pct": -54.4,
-    "val13_eok": 2387.7
+    "off_peak_pct": -45.4,
+    "off_high_pct": -52.7,
+    "val13_eok": 2428.5
    },
    "delta": {
     "prev_yoy": 172.3,
@@ -313,12 +313,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 113000,
+    "close": 121500,
     "series": null,
-    "ma4": 115625.0,
-    "ma13": 165338.5,
-    "ma26": 187642.3,
-    "ma52": 174128.8,
+    "ma4": 117750.0,
+    "ma13": 165992.3,
+    "ma26": 187969.2,
+    "ma52": 174292.3,
     "aligned": false,
     "since": "20260622",
     "cycle_weeks": null,
@@ -326,9 +326,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -63.9,
-    "off_high_pct": -66.3,
-    "val13_eok": 4158.1
+    "off_peak_pct": -61.2,
+    "off_high_pct": -63.7,
+    "val13_eok": 4202.9
    },
    "delta": {
     "prev_yoy": 9.4,
@@ -345,12 +345,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 13980,
+    "close": 14620,
     "series": null,
-    "ma4": 15477.5,
-    "ma13": 18130.0,
-    "ma26": 20732.3,
-    "ma52": 24615.2,
+    "ma4": 15637.5,
+    "ma13": 18179.2,
+    "ma26": 20756.9,
+    "ma52": 24627.5,
     "aligned": false,
     "since": "20260601",
     "cycle_weeks": null,
@@ -358,9 +358,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -59.4,
-    "off_high_pct": -60.5,
-    "val13_eok": 2898.1
+    "off_peak_pct": -57.5,
+    "off_high_pct": -58.6,
+    "val13_eok": 2935.9
    },
    "delta": {
     "prev_yoy": 71.5,
@@ -377,12 +377,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 626000,
+    "close": 661000,
     "series": null,
-    "ma4": 633000.0,
-    "ma13": 854307.7,
-    "ma26": 955615.4,
-    "ma52": 1096788.5,
+    "ma4": 641750.0,
+    "ma13": 857000.0,
+    "ma26": 956961.5,
+    "ma52": 1097461.5,
     "aligned": false,
     "since": "20260511",
     "cycle_weeks": null,
@@ -390,9 +390,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -58.5,
-    "off_high_pct": -62.2,
-    "val13_eok": 6177.7
+    "off_peak_pct": -56.1,
+    "off_high_pct": -60.1,
+    "val13_eok": 6251.0
    },
    "delta": {
     "prev_yoy": 78.4,
@@ -409,12 +409,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 40600,
+    "close": 44100,
     "series": null,
-    "ma4": 43225.0,
-    "ma13": 65184.6,
-    "ma26": 73442.3,
-    "ma52": 86230.8,
+    "ma4": 44100.0,
+    "ma13": 65453.8,
+    "ma26": 73576.9,
+    "ma52": 86298.1,
     "aligned": false,
     "since": "20260601",
     "cycle_weeks": null,
@@ -422,9 +422,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -68.7,
-    "off_high_pct": -70.8,
-    "val13_eok": 8300.1
+    "off_peak_pct": -66.0,
+    "off_high_pct": -68.3,
+    "val13_eok": 8368.3
    },
    "delta": {
     "prev_yoy": -25.0,
@@ -473,12 +473,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 138500,
+    "close": 156600,
     "series": null,
-    "ma4": 147225.0,
-    "ma13": 188546.2,
-    "ma26": 182296.2,
-    "ma52": 127994.2,
+    "ma4": 151750.0,
+    "ma13": 189938.5,
+    "ma26": 182992.3,
+    "ma52": 128342.3,
     "aligned": false,
     "since": "20261102",
     "cycle_weeks": null,
@@ -486,9 +486,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -48.2,
-    "off_high_pct": -51.2,
-    "val13_eok": 13847.5
+    "off_peak_pct": -41.5,
+    "off_high_pct": -44.9,
+    "val13_eok": 14105.8
    },
    "delta": {
     "prev_yoy": -67.8,
@@ -506,12 +506,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 41450,
+    "close": 44350,
     "series": null,
-    "ma4": 44812.5,
-    "ma13": 64250.0,
-    "ma26": 80478.8,
-    "ma52": 104252.9,
+    "ma4": 45537.5,
+    "ma13": 64473.1,
+    "ma26": 80590.4,
+    "ma52": 104308.7,
     "aligned": false,
     "since": "20260316",
     "cycle_weeks": null,
@@ -519,9 +519,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -72.3,
-    "off_high_pct": -73.2,
-    "val13_eok": 3657.8
+    "off_peak_pct": -70.4,
+    "off_high_pct": -71.4,
+    "val13_eok": 3686.7
    },
    "delta": {
     "prev_yoy": 390.8,
@@ -538,12 +538,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 148400,
+    "close": 160800,
     "series": null,
-    "ma4": 161325.0,
-    "ma13": 208346.2,
-    "ma26": 225800.0,
-    "ma52": 235471.2,
+    "ma4": 164425.0,
+    "ma13": 209300.0,
+    "ma26": 226276.9,
+    "ma52": 235709.6,
     "aligned": false,
     "since": "20260608",
     "cycle_weeks": null,
@@ -551,9 +551,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -61.9,
-    "off_high_pct": -65.2,
-    "val13_eok": 6451.4
+    "off_peak_pct": -58.8,
+    "off_high_pct": -62.3,
+    "val13_eok": 6531.1
    },
    "delta": {
     "prev_yoy": -1.6,
@@ -570,12 +570,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 33450,
+    "close": 34600,
     "series": null,
-    "ma4": 36075.0,
-    "ma13": 41846.2,
-    "ma26": 44669.2,
-    "ma52": 50908.7,
+    "ma4": 36362.5,
+    "ma13": 41934.6,
+    "ma26": 44713.5,
+    "ma52": 50930.8,
     "aligned": false,
     "since": "20260518",
     "cycle_weeks": null,
@@ -583,9 +583,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -47.7,
-    "off_high_pct": -51.5,
-    "val13_eok": 241.2
+    "off_peak_pct": -45.9,
+    "off_high_pct": -49.9,
+    "val13_eok": 243.4
    },
    "delta": {
     "prev_yoy": -33.1,
@@ -602,12 +602,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 60600,
+    "close": 65600,
     "series": null,
-    "ma4": 67475.0,
-    "ma13": 101884.6,
-    "ma26": 105103.8,
-    "ma52": 124938.5,
+    "ma4": 68725.0,
+    "ma13": 102269.2,
+    "ma26": 105296.2,
+    "ma52": 125034.6,
     "aligned": false,
     "since": "20260518",
     "cycle_weeks": null,
@@ -615,9 +615,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": false,
-    "off_peak_pct": -68.9,
-    "off_high_pct": -69.4,
-    "val13_eok": 2083.4
+    "off_peak_pct": -66.3,
+    "off_high_pct": -66.9,
+    "val13_eok": 2089.4
    },
    "delta": {
     "prev_yoy": -50.0,
@@ -634,12 +634,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 84700,
+    "close": 84000,
     "series": null,
-    "ma4": 86850.0,
-    "ma13": 97338.5,
-    "ma26": 100988.5,
-    "ma52": 95834.6,
+    "ma4": 86675.0,
+    "ma13": 97284.6,
+    "ma26": 100961.5,
+    "ma52": 95821.2,
     "aligned": false,
     "since": "20261006",
     "cycle_weeks": null,
@@ -647,9 +647,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -25.0,
-    "off_high_pct": -27.3,
-    "val13_eok": 4744.5
+    "off_peak_pct": -25.6,
+    "off_high_pct": -27.9,
+    "val13_eok": 4786.2
    },
    "delta": null,
    "entry_date": "20250728",
@@ -672,12 +672,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 94500,
+    "close": 103100,
     "series": null,
-    "ma4": 110750.0,
-    "ma13": 168753.8,
-    "ma26": 180692.3,
-    "ma52": 178338.5,
+    "ma4": 112900.0,
+    "ma13": 169415.4,
+    "ma26": 181023.1,
+    "ma52": 178503.8,
     "aligned": false,
     "since": "20260622",
     "cycle_weeks": null,
@@ -685,9 +685,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -71.5,
-    "off_high_pct": -72.3,
-    "val13_eok": 2171.1
+    "off_peak_pct": -68.9,
+    "off_high_pct": -69.8,
+    "val13_eok": 2188.7
    },
    "delta": {
     "prev_yoy": 63.5,
@@ -704,12 +704,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 58300,
+    "close": 62300,
     "series": null,
-    "ma4": 65675.0,
-    "ma13": 94600.0,
-    "ma26": 130769.2,
-    "ma52": 169455.8,
+    "ma4": 66675.0,
+    "ma13": 94907.7,
+    "ma26": 130923.1,
+    "ma52": 169532.7,
     "aligned": false,
     "since": "20260526",
     "cycle_weeks": null,
@@ -717,9 +717,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -78.3,
-    "off_high_pct": -79.3,
-    "val13_eok": 1790.2
+    "off_peak_pct": -76.8,
+    "off_high_pct": -77.9,
+    "val13_eok": 1817.8
    },
    "delta": {
     "prev_yoy": 120.3,
@@ -735,13 +735,13 @@
    "name": "셀트리온",
    "status": "관찰",
    "metrics": {
-    "date": "20261109",
-    "close": 204500,
+    "date": "20261123",
+    "close": 221000,
     "series": null,
-    "ma4": 200375.0,
-    "ma13": 189523.1,
-    "ma26": 185263.8,
-    "ma52": 190180.9,
+    "ma4": 214750.0,
+    "ma13": 194176.9,
+    "ma26": 187965.4,
+    "ma52": 191872.6,
     "aligned": false,
     "since": "20260323",
     "cycle_weeks": null,
@@ -749,17 +749,17 @@
     "dc_4_13": false,
     "dc_4_26": false,
     "vol_dc_13_26": true,
-    "off_peak_pct": -11.3,
-    "off_high_pct": -14.5,
-    "val13_eok": 4145.1
+    "off_peak_pct": -4.2,
+    "off_high_pct": -7.6,
+    "val13_eok": 4693.2
    },
    "delta": {
     "prev_yoy": 137.5,
-    "cur_yoy": 86.3,
-    "delta_pp": -51.2,
+    "cur_yoy": 74.3,
+    "delta_pp": -63.2,
     "verdict": "위험",
     "accel": false,
-    "desc": "2026 반기 YoY +86.3% vs 2025 연간 +137.5% → 델타 -51.2%p [위험]"
+    "desc": "2026 3Q누적 YoY +74.3% vs 2025 연간 +137.5% → 델타 -63.2%p [위험]"
    },
    "watch_note": null
   },
@@ -768,12 +768,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 32950,
+    "close": 37150,
     "series": null,
-    "ma4": 35000.0,
-    "ma13": 49203.8,
-    "ma26": 52340.4,
-    "ma52": 66101.0,
+    "ma4": 36050.0,
+    "ma13": 49526.9,
+    "ma26": 52501.9,
+    "ma52": 66181.7,
     "aligned": false,
     "since": "20260511",
     "cycle_weeks": null,
@@ -781,9 +781,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -69.9,
-    "off_high_pct": -71.1,
-    "val13_eok": 748.3
+    "off_peak_pct": -66.1,
+    "off_high_pct": -67.5,
+    "val13_eok": 755.0
    },
    "delta": {
     "prev_yoy": 244.3,
@@ -800,12 +800,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 32250,
+    "close": 35100,
     "series": null,
-    "ma4": 33287.5,
-    "ma13": 42276.9,
-    "ma26": 46113.5,
-    "ma52": 48493.3,
+    "ma4": 34000.0,
+    "ma13": 42496.2,
+    "ma26": 46223.1,
+    "ma52": 48548.1,
     "aligned": false,
     "since": "20260706",
     "cycle_weeks": null,
@@ -813,9 +813,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -50.6,
-    "off_high_pct": -56.4,
-    "val13_eok": 1225.4
+    "off_peak_pct": -46.2,
+    "off_high_pct": -52.6,
+    "val13_eok": 1234.2
    },
    "delta": {
     "prev_yoy": -32.4,
@@ -832,12 +832,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 146700,
+    "close": 142600,
     "series": null,
-    "ma4": 136400.0,
-    "ma13": 137000.0,
-    "ma26": 130188.5,
-    "ma52": 131267.3,
+    "ma4": 135375.0,
+    "ma13": 136684.6,
+    "ma26": 130030.8,
+    "ma52": 131188.5,
     "aligned": false,
     "since": "20260323",
     "cycle_weeks": null,
@@ -845,9 +845,9 @@
     "dc_4_13": true,
     "dc_4_26": false,
     "vol_dc_13_26": true,
-    "off_peak_pct": -8.9,
-    "off_high_pct": -13.2,
-    "val13_eok": 1206.3
+    "off_peak_pct": -11.4,
+    "off_high_pct": -15.6,
+    "val13_eok": 1229.7
    },
    "delta": {
     "prev_yoy": 52.3,
@@ -864,12 +864,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 51000,
+    "close": 53800,
     "series": null,
-    "ma4": 51162.5,
-    "ma13": 65065.4,
-    "ma26": 67178.8,
-    "ma52": 73379.8,
+    "ma4": 51862.5,
+    "ma13": 65280.8,
+    "ma26": 67286.5,
+    "ma52": 73433.7,
     "aligned": false,
     "since": "20260608",
     "cycle_weeks": null,
@@ -877,9 +877,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -64.6,
-    "off_high_pct": -65.5,
-    "val13_eok": 1121.1
+    "off_peak_pct": -62.7,
+    "off_high_pct": -63.6,
+    "val13_eok": 1129.3
    },
    "delta": {
     "prev_yoy": 89.6,
@@ -911,7 +911,7 @@
     "vol_dc_13_26": true,
     "off_peak_pct": -21.1,
     "off_high_pct": -25.2,
-    "val13_eok": 7436.6
+    "val13_eok": 7507.7
    },
    "delta": null,
    "entry_date": "20260706",
@@ -934,12 +934,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 171400,
+    "close": 188100,
     "series": null,
-    "ma4": 180625.0,
-    "ma13": 227153.8,
-    "ma26": 248341.3,
-    "ma52": 277439.3,
+    "ma4": 184800.0,
+    "ma13": 228438.5,
+    "ma26": 248983.6,
+    "ma52": 277760.5,
     "aligned": false,
     "since": "20251215",
     "cycle_weeks": null,
@@ -947,9 +947,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -59.8,
-    "off_high_pct": -59.6,
-    "val13_eok": 5049.0
+    "off_peak_pct": -55.9,
+    "off_high_pct": -55.7,
+    "val13_eok": 5149.9
    },
    "delta": {
     "prev_yoy": 320.8,
@@ -998,12 +998,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 30300,
+    "close": 30400,
     "series": null,
-    "ma4": 26087.5,
-    "ma13": 33923.1,
-    "ma26": 35976.9,
-    "ma52": 39052.9,
+    "ma4": 26112.5,
+    "ma13": 33930.8,
+    "ma26": 35980.8,
+    "ma52": 39054.8,
     "aligned": false,
     "since": "20250811",
     "cycle_weeks": null,
@@ -1011,9 +1011,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -44.3,
-    "off_high_pct": -46.0,
-    "val13_eok": 1360.9
+    "off_peak_pct": -44.1,
+    "off_high_pct": -45.8,
+    "val13_eok": 1384.0
    },
    "delta": {
     "prev_yoy": 49.3,
@@ -1030,12 +1030,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 389500,
+    "close": 418000,
     "series": null,
-    "ma4": 389625.0,
-    "ma13": 549769.2,
-    "ma26": 706846.2,
-    "ma52": 844057.7,
+    "ma4": 396750.0,
+    "ma13": 551961.5,
+    "ma26": 707942.3,
+    "ma52": 844605.8,
     "aligned": false,
     "since": "20260608",
     "cycle_weeks": null,
@@ -1043,9 +1043,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -72.2,
-    "off_high_pct": -72.8,
-    "val13_eok": 3786.8
+    "off_peak_pct": -70.2,
+    "off_high_pct": -70.8,
+    "val13_eok": 3831.3
    },
    "delta": {
     "prev_yoy": 48.8,
@@ -1062,12 +1062,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 481000,
+    "close": 532000,
     "series": null,
-    "ma4": 393375.0,
-    "ma13": 406461.5,
-    "ma26": 450634.6,
-    "ma52": 539144.2,
+    "ma4": 406125.0,
+    "ma13": 410384.6,
+    "ma26": 452596.2,
+    "ma52": 540125.0,
     "aligned": false,
     "since": "20260615",
     "cycle_weeks": null,
@@ -1075,9 +1075,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -40.6,
-    "off_high_pct": -50.9,
-    "val13_eok": 1666.8
+    "off_peak_pct": -34.3,
+    "off_high_pct": -45.7,
+    "val13_eok": 1837.0
    },
    "delta": null,
    "watch_note": null
@@ -1087,12 +1087,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 324000,
+    "close": 299500,
     "series": null,
-    "ma4": 262750.0,
-    "ma13": 320076.9,
-    "ma26": 351480.8,
-    "ma52": 335865.4,
+    "ma4": 256625.0,
+    "ma13": 318192.3,
+    "ma26": 350538.5,
+    "ma52": 335394.2,
     "aligned": false,
     "since": "20260831",
     "cycle_weeks": null,
@@ -1100,9 +1100,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": false,
-    "off_peak_pct": -29.8,
-    "off_high_pct": -31.8,
-    "val13_eok": 4749.5
+    "off_peak_pct": -35.1,
+    "off_high_pct": -36.9,
+    "val13_eok": 4926.9
    },
    "delta": {
     "prev_yoy": 197.9,
@@ -1120,12 +1120,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 1610000,
+    "close": 1710000,
     "series": null,
-    "ma4": 1668250.0,
-    "ma13": 2227769.2,
-    "ma26": 2633423.1,
-    "ma52": 2680288.5,
+    "ma4": 1693250.0,
+    "ma13": 2235461.5,
+    "ma26": 2637269.2,
+    "ma52": 2682211.5,
     "aligned": false,
     "since": "20260622",
     "cycle_weeks": null,
@@ -1133,9 +1133,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -63.4,
-    "off_high_pct": -66.0,
-    "val13_eok": 4981.5
+    "off_peak_pct": -61.1,
+    "off_high_pct": -63.9,
+    "val13_eok": 5030.2
    },
    "delta": {
     "prev_yoy": 106.1,
@@ -1152,12 +1152,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 240000,
+    "close": 250000,
     "series": null,
-    "ma4": 255125.0,
-    "ma13": 352115.4,
-    "ma26": 445384.6,
-    "ma52": 512500.0,
+    "ma4": 257625.0,
+    "ma13": 352884.6,
+    "ma26": 445769.2,
+    "ma52": 512692.3,
     "aligned": false,
     "since": "20260629",
     "cycle_weeks": null,
@@ -1165,9 +1165,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -65.5,
-    "off_high_pct": -68.6,
-    "val13_eok": 4720.8
+    "off_peak_pct": -64.1,
+    "off_high_pct": -67.3,
+    "val13_eok": 4752.4
    },
    "delta": {
     "prev_yoy": 188.9,
@@ -1184,12 +1184,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 649000,
+    "close": 687000,
     "series": null,
-    "ma4": 703000.0,
-    "ma13": 913615.4,
-    "ma26": 1099769.2,
-    "ma52": 856971.2,
+    "ma4": 712500.0,
+    "ma13": 916538.5,
+    "ma26": 1101230.8,
+    "ma52": 857701.9,
     "aligned": false,
     "since": "20260727",
     "cycle_weeks": null,
@@ -1197,9 +1197,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -63.5,
-    "off_high_pct": -70.4,
-    "val13_eok": 25959.5
+    "off_peak_pct": -61.4,
+    "off_high_pct": -68.6,
+    "val13_eok": 26171.8
    },
    "delta": {
     "prev_yoy": 124.4,
@@ -1216,12 +1216,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 37700,
+    "close": 40900,
     "series": null,
-    "ma4": 37387.5,
-    "ma13": 49042.3,
-    "ma26": 47888.5,
-    "ma52": 45368.3,
+    "ma4": 38187.5,
+    "ma13": 49288.5,
+    "ma26": 48011.5,
+    "ma52": 45429.8,
     "aligned": false,
     "since": "20261102",
     "cycle_weeks": null,
@@ -1229,9 +1229,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -11.5,
-    "off_high_pct": -59.0,
-    "val13_eok": 4644.6
+    "off_peak_pct": -4.0,
+    "off_high_pct": -55.5,
+    "val13_eok": 4713.9
    },
    "delta": {
     "prev_yoy": -4.3,
@@ -1280,12 +1280,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 52000,
+    "close": 54600,
     "series": null,
-    "ma4": 50450.0,
-    "ma13": 61038.5,
-    "ma26": 72146.2,
-    "ma52": 83744.2,
+    "ma4": 51100.0,
+    "ma13": 61238.5,
+    "ma26": 72246.2,
+    "ma52": 83794.2,
     "aligned": false,
     "since": "20260629",
     "cycle_weeks": null,
@@ -1293,9 +1293,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": true,
-    "off_peak_pct": -62.9,
-    "off_high_pct": -69.4,
-    "val13_eok": 822.7
+    "off_peak_pct": -61.1,
+    "off_high_pct": -67.9,
+    "val13_eok": 845.9
    },
    "delta": null,
    "watch_note": null
@@ -2168,15 +2168,15 @@
    "status": "주도주",
    "metrics": {
     "date": "20261123",
-    "close": 56900,
+    "close": 58600,
     "series": [
      {
       "d": "20261123",
-      "c": 56900,
-      "m4": 61625.0,
-      "m13": 54276.9,
-      "m26": 50303.8,
-      "m52": 43816.3
+      "c": 58600,
+      "m4": 62050.0,
+      "m13": 54407.7,
+      "m26": 50369.2,
+      "m52": 43849.0
      },
      {
       "d": "20261116",
@@ -2491,10 +2491,10 @@
       "m52": 25095.2
      }
     ],
-    "ma4": 61625.0,
-    "ma13": 54276.9,
-    "ma26": 50303.8,
-    "ma52": 43816.3,
+    "ma4": 62050.0,
+    "ma13": 54407.7,
+    "ma26": 50369.2,
+    "ma52": 43849.0,
     "aligned": true,
     "since": "20261026",
     "cycle_weeks": 4,
@@ -2502,9 +2502,9 @@
     "dc_4_13": false,
     "dc_4_26": false,
     "vol_dc_13_26": false,
-    "off_peak_pct": -17.3,
-    "off_high_pct": -19.1,
-    "val13_eok": 6505.8
+    "off_peak_pct": -14.8,
+    "off_high_pct": -16.6,
+    "val13_eok": 6571.5
    },
    "delta": {
     "prev_yoy": -18.5,
@@ -2802,15 +2802,15 @@
    "status": "주도주",
    "metrics": {
     "date": "20261123",
-    "close": 6100,
+    "close": 6670,
     "series": [
      {
       "d": "20261123",
-      "c": 6100,
-      "m4": 6357.5,
-      "m13": 6557.3,
-      "m26": 5260.2,
-      "m52": 4647.2
+      "c": 6670,
+      "m4": 6500.0,
+      "m13": 6601.2,
+      "m26": 5282.1,
+      "m52": 4658.2
      },
      {
       "d": "20261116",
@@ -3125,10 +3125,10 @@
       "m52": 2950.0
      }
     ],
-    "ma4": 6357.5,
-    "ma13": 6557.3,
-    "ma26": 5260.2,
-    "ma52": 4647.2,
+    "ma4": 6500.0,
+    "ma13": 6601.2,
+    "ma26": 5282.1,
+    "ma52": 4658.2,
     "aligned": false,
     "since": "20261123",
     "cycle_weeks": null,
@@ -3136,9 +3136,9 @@
     "dc_4_13": true,
     "dc_4_26": false,
     "vol_dc_13_26": false,
-    "off_peak_pct": -33.8,
-    "off_high_pct": -47.8,
-    "val13_eok": 1900.2
+    "off_peak_pct": -27.6,
+    "off_high_pct": -42.9,
+    "val13_eok": 1912.1
    },
    "delta": {
     "prev_yoy": -233.4,
@@ -3519,12 +3519,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 421000,
+    "close": 452500,
     "series": null,
-    "ma4": 442375.0,
-    "ma13": 506615.4,
-    "ma26": 495692.3,
-    "ma52": 466375.0,
+    "ma4": 450250.0,
+    "ma13": 509038.5,
+    "ma26": 496903.8,
+    "ma52": 466980.8,
     "aligned": false,
     "since": "20260622",
     "cycle_weeks": null,
@@ -3532,9 +3532,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": false,
-    "off_peak_pct": -39.4,
-    "off_high_pct": -41.8,
-    "val13_eok": 13439.1
+    "off_peak_pct": -34.9,
+    "off_high_pct": -37.4,
+    "val13_eok": 13633.3
    },
    "delta": {
     "prev_yoy": -574.1,
@@ -4334,12 +4334,12 @@
    "status": "관찰",
    "metrics": {
     "date": "20261123",
-    "close": 281500,
+    "close": 304000,
     "series": null,
-    "ma4": 245000.0,
-    "ma13": 271923.1,
-    "ma26": 258869.2,
-    "ma52": 269713.5,
+    "ma4": 250625.0,
+    "ma13": 273653.8,
+    "ma26": 259734.6,
+    "ma52": 270146.2,
     "aligned": false,
     "since": "20260622",
     "cycle_weeks": null,
@@ -4347,9 +4347,9 @@
     "dc_4_13": true,
     "dc_4_26": true,
     "vol_dc_13_26": false,
-    "off_peak_pct": -15.8,
-    "off_high_pct": -39.3,
-    "val13_eok": 3858.4
+    "off_peak_pct": -9.1,
+    "off_high_pct": -34.5,
+    "val13_eok": 4154.5
    },
    "delta": {
     "prev_yoy": 999.0,
@@ -5064,15 +5064,15 @@
    "status": "주도주",
    "metrics": {
     "date": "20261123",
-    "close": 243500,
+    "close": 253000,
     "series": [
      {
       "d": "20261123",
-      "c": 243500,
-      "m4": 219775.0,
-      "m13": 159000.0,
-      "m26": 139430.8,
-      "m52": 130342.3
+      "c": 253000,
+      "m4": 222150.0,
+      "m13": 159730.8,
+      "m26": 139796.2,
+      "m52": 130525.0
      },
      {
       "d": "20261116",
@@ -5387,10 +5387,10 @@
       "m52": 110509.6
      }
     ],
-    "ma4": 219775.0,
-    "ma13": 159000.0,
-    "ma26": 139430.8,
-    "ma52": 130342.3,
+    "ma4": 222150.0,
+    "ma13": 159730.8,
+    "ma26": 139796.2,
+    "ma52": 130525.0,
     "aligned": true,
     "since": "20261102",
     "cycle_weeks": 3,
@@ -5399,8 +5399,8 @@
     "dc_4_26": false,
     "vol_dc_13_26": false,
     "off_peak_pct": 0.0,
-    "off_high_pct": -3.8,
-    "val13_eok": 2602.4
+    "off_high_pct": -2.7,
+    "val13_eok": 2657.5
    },
    "delta": {
     "prev_yoy": -115.3,
@@ -5454,15 +5454,15 @@
    "status": "주도주",
    "metrics": {
     "date": "20261123",
-    "close": 40100,
+    "close": 40850,
     "series": [
      {
       "d": "20261123",
-      "c": 40100,
-      "m4": 33425.0,
-      "m13": 24273.8,
-      "m26": 18966.5,
-      "m52": 17802.7
+      "c": 40850,
+      "m4": 33612.5,
+      "m13": 24331.5,
+      "m26": 18995.4,
+      "m52": 17817.1
      },
      {
       "d": "20261116",
@@ -5777,10 +5777,10 @@
       "m52": 18898.1
      }
     ],
-    "ma4": 33425.0,
-    "ma13": 24273.8,
-    "ma26": 18966.5,
-    "ma52": 17802.7,
+    "ma4": 33612.5,
+    "ma13": 24331.5,
+    "ma26": 18995.4,
+    "ma52": 17817.1,
     "aligned": true,
     "since": "20261109",
     "cycle_weeks": 2,
@@ -5789,8 +5789,8 @@
     "dc_4_26": false,
     "vol_dc_13_26": false,
     "off_peak_pct": 0.0,
-    "off_high_pct": -11.7,
-    "val13_eok": 2140.4
+    "off_high_pct": -10.0,
+    "val13_eok": 2219.7
    },
    "delta": {
     "prev_yoy": -28.8,
@@ -5819,15 +5819,15 @@
    "status": "주도주",
    "metrics": {
     "date": "20261123",
-    "close": 110000,
+    "close": 111800,
     "series": [
      {
       "d": "20261123",
-      "c": 110000,
-      "m4": 100575.0,
-      "m13": 51280.8,
-      "m26": 40021.2,
-      "m52": 38271.2
+      "c": 111800,
+      "m4": 101025.0,
+      "m13": 51419.2,
+      "m26": 40090.4,
+      "m52": 38305.8
      },
      {
       "d": "20261116",
@@ -6142,10 +6142,10 @@
       "m52": 34973.1
      }
     ],
-    "ma4": 100575.0,
-    "ma13": 51280.8,
-    "ma26": 40021.2,
-    "ma52": 38271.2,
+    "ma4": 101025.0,
+    "ma13": 51419.2,
+    "ma26": 40090.4,
+    "ma52": 38305.8,
     "aligned": true,
     "since": "20261116",
     "cycle_weeks": 1,
@@ -6154,8 +6154,8 @@
     "dc_4_26": false,
     "vol_dc_13_26": false,
     "off_peak_pct": 0.0,
-    "off_high_pct": -28.6,
-    "val13_eok": 1140.9
+    "off_high_pct": -27.4,
+    "val13_eok": 1187.8
    },
    "delta": null,
    "watch_note": null,
@@ -6210,15 +6210,15 @@
    "status": "후보",
    "metrics": {
     "date": "20261123",
-    "close": 163300,
+    "close": 174000,
     "series": [
      {
       "d": "20261123",
-      "c": 163300,
-      "m4": 121350.0,
-      "m13": 90930.8,
-      "m26": 73400.0,
-      "m52": 68148.1
+      "c": 174000,
+      "m4": 124025.0,
+      "m13": 91753.8,
+      "m26": 73811.5,
+      "m52": 68353.8
      },
      {
       "d": "20261116",
@@ -6533,10 +6533,10 @@
       "m52": 65182.7
      }
     ],
-    "ma4": 121350.0,
-    "ma13": 90930.8,
-    "ma26": 73400.0,
-    "ma52": 68148.1,
+    "ma4": 124025.0,
+    "ma13": 91753.8,
+    "ma26": 73811.5,
+    "ma52": 68353.8,
     "aligned": true,
     "since": "20261026",
     "cycle_weeks": 4,
@@ -6545,8 +6545,8 @@
     "dc_4_26": false,
     "vol_dc_13_26": false,
     "off_peak_pct": 0.0,
-    "off_high_pct": -6.6,
-    "val13_eok": 1952.4
+    "off_high_pct": -7.4,
+    "val13_eok": 2141.5
    },
    "delta": {
     "prev_yoy": 20.2,
@@ -7212,11 +7212,11 @@
   }
  ],
  "market": {
-  "date": "20261126",
-  "kospi_close": 4711.21,
-  "kospi_ma50": 5888.8,
-  "disparity_50d": 80.0
+  "date": "20261127",
+  "kospi_close": 4915.68,
+  "kospi_ma50": 5853.42,
+  "disparity_50d": 84.0
  },
- "last_collect": "20261126",
+ "last_collect": "20261127",
  "engine": "v2-weekly-4-13-26-52"
 }
